@@ -1,0 +1,672 @@
+00:00:00.015	Main:StartToFile 2017-05-22 11:23:23
+00:00:00.031	Main:HSPF:entry: ("c:\basins42\models\winhspf30\bin\hspfenginenet.exe" 3732)
+00:00:00.031	Main:ProcessDetails HspfEngineNet
+00:00:00.031	Main: Parent WinHSPF
+00:00:00.031	Main:CreatePipes 872 876
+00:00:00.046	Main:Token:MSG7 In M_SPIPH    0  876
+00:00:00.845	InputCallback:Process 9 bytes
+00:00:00.845	ProcessInput:MONITOR
+00:00:00.845	ProcessInput:HSPF:F90_WDBOPN:entry (c:\basins42\models\winhspf30\bin\hspfmsg.wdm, 44)
+00:00:00.923	ProcessInput:HSPF:F90_WDBOPN:exit  (100)
+00:00:00.938	FindFile:Finding file: statusMonitor.exe
+00:00:00.954	FindFile:Found file: c:\basins42\models\winhspf30\bin\statusmonitor.exe
+00:00:00.985	Status:MonitorLaunched
+00:00:00.985	WriteStatus:(Progress Percent Off)
+00:00:00.985	ProcessInput:InputProcessed
+00:00:00.985	InputCallback:Process 30 bytes
+00:00:00.985	ProcessInput:W99OPN
+00:00:00.985	ProcessInput:DBG F90_W99OPN
+00:00:00.985	ProcessInput:InputProcessed
+00:00:00.985	ProcessInput:ACTIVATE CCOSTAC1 -1
+00:00:00.985	ProcessInput:DBG F90_ACTSCN(-1, 0, 100, 0, CCOSTAC1, 8
+00:00:01.063	Main:Token:MSG7 File Status at begin activate
+00:00:01.063	WriteStatus:(MSG7 File Status at begin activate)
+00:00:01.063	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.063	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.063	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.063	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.063	Main:Token:MSG7 M_ACTSCN:entry:CCOSTAC1           0         100
+00:00:01.063	WriteStatus:(MSG7 M_ACTSCN:entry:CCOSTAC1           0         100)
+00:00:01.063	Main:Token:MSG7  M_ACTSCN:MSGFL:100 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+00:00:01.063	WriteStatus:(MSG7  M_ACTSCN:MSGFL:100 c:\basins42\models\winhspf30\bin\hspfmsg.wdm)
+00:00:01.063	Main:Token:MSG7  M_ACTSCN:UCIFL: 10 CCOSTAC1.UCI
+00:00:01.063	WriteStatus:(MSG7  M_ACTSCN:UCIFL: 10 CCOSTAC1.UCI)
+00:00:01.063	Main:Token:MSG7 M_ACTSCN:about to call FILSET
+00:00:01.063	WriteStatus:(MSG7 M_ACTSCN:about to call FILSET)
+00:00:01.173	ProcessInput:Activate complete 0
+
+00:00:01.173	ProcessInput:InputProcessed
+00:00:01.173	Main:Token:MSG7 M_ACTSCN:back from FILSET           0
+00:00:01.173	WriteStatus:(MSG7 M_ACTSCN:back from FILSET           0)
+00:00:01.173	Main:Token:MSG7  M_ACTSCN:WDMFL: 25 CCOSTAC1.wdm
+00:00:01.173	WriteStatus:(MSG7  M_ACTSCN:WDMFL: 25 CCOSTAC1.wdm)
+00:00:01.173	Main:Token:MSG7  M_ACTSCN:WDMFL: 26 ..\METdata.wdm
+00:00:01.173	WriteStatus:(MSG7  M_ACTSCN:WDMFL: 26 ..\METdata.wdm)
+00:00:01.173	Main:Token:MSG7  M_ACTSCN:ECHFL: 24 CCOSTAC1.ech
+00:00:01.173	WriteStatus:(MSG7  M_ACTSCN:ECHFL: 24 CCOSTAC1.ech)
+00:00:01.173	Main:Token:MSG7 M_ACTSCN:skip INTERP
+00:00:01.173	WriteStatus:(MSG7 M_ACTSCN:skip INTERP)
+00:00:01.173	Main:Token:MSG7 File Status at before File Closing in M_ACTSCN
+00:00:01.173	WriteStatus:(MSG7 File Status at before File Closing in M_ACTSCN)
+00:00:01.173	Main:Token:MSG7   unit  24 file CCOSTAC1.ech is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.173	WriteStatus:(MSG7   unit  24 file CCOSTAC1.ech is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.173	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.173	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.173	Main:Token:MSG7   unit  91 file CCOSTAC1.out is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.173	WriteStatus:(MSG7   unit  91 file CCOSTAC1.out is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.173	Main:Token:MSG7   unit  92 file CCOSTAC1.hbn is open, access:SEQUENTIAL form:UNFORMATTED r/w:YES recl:   80
+00:00:01.173	WriteStatus:(MSG7   unit  92 file CCOSTAC1.hbn is open, access:SEQUENTIAL form:UNFORMATTED r/w:YES recl:   80)
+00:00:01.173	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.173	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.173	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.173	Main:Token:MSG99 
+00:00:01.173	WriteStatus:(MSG99 )
+00:00:01.173	Main:Token:MSG7 File Status at before WDM closing in M_ACTSCN
+00:00:01.173	WriteStatus:(MSG7 File Status at before WDM closing in M_ACTSCN)
+00:00:01.173	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.173	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.173	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.173	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.173	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.173	Main:Token:MSG7 File Status at about to close           25
+00:00:01.173	WriteStatus:(MSG7 File Status at about to close           25)
+00:00:01.173	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.173	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.173	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.188	Main:Token:MSG7 File Status at after one WDM closing in M_ACTSCN
+00:00:01.188	WriteStatus:(MSG7 File Status at after one WDM closing in M_ACTSCN)
+00:00:01.188	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.188	Main:Token:MSG7 File Status at about to close           26
+00:00:01.188	WriteStatus:(MSG7 File Status at about to close           26)
+00:00:01.188	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.188	Main:Token:MSG7 File Status at after one WDM closing in M_ACTSCN
+00:00:01.188	WriteStatus:(MSG7 File Status at after one WDM closing in M_ACTSCN)
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.188	Main:Token:MSG7 File Status at at end of File Closing in M_ACTSCN
+00:00:01.188	WriteStatus:(MSG7 File Status at at end of File Closing in M_ACTSCN)
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:01.188	Main:Token:MSG7 M_ACTSCN:exit            0
+00:00:01.188	WriteStatus:(MSG7 M_ACTSCN:exit            0)
+00:00:01.188	Main:Token:MSG7 File Status at after activate, retcod:0 i:-1
+
+00:00:01.188	WriteStatus:MSG7 File Status at after activate, retcod:0 i:-1
+
+00:00:01.188	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:01.188	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:01.188	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:01.188	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:03.192	InputCallback:Process 10 bytes
+00:00:03.192	ProcessInput:SIMULATE
+00:00:03.192	ProcessInput:DBG F90_SIMSCN
+00:00:03.246	Main:Token:MSG7 M_SIMSCN:entry:CCOSTAC1.ech
+00:00:03.246	WriteStatus:(MSG7 M_SIMSCN:entry:CCOSTAC1.ech)
+00:00:03.246	Main:Token:MSG7 File Status at before FILSET in M_SIMSCN
+00:00:03.246	WriteStatus:(MSG7 File Status at before FILSET in M_SIMSCN)
+00:00:03.246	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:03.247	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:03.247	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:03.247	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:03.247	Main:Token:MSG7 M_SIMSCN:about to call FILSET         100          10           0           0           0           0
+00:00:03.247	WriteStatus:(MSG7 M_SIMSCN:about to call FILSET         100          10           0           0           0           0)
+00:00:03.247	Main:Token:MSG7 File Status at at end of FilSet in M_SIMSCN
+00:00:03.247	WriteStatus:(MSG7 File Status at at end of FilSet in M_SIMSCN)
+00:00:03.247	Main:Token:MSG7   unit  24 file CCOSTAC1.ech is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:03.248	WriteStatus:(MSG7   unit  24 file CCOSTAC1.ech is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:03.248	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:03.248	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:03.248	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:03.248	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:03.248	Main:Token:MSG7   unit  91 file CCOSTAC1.out is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:03.248	WriteStatus:(MSG7   unit  91 file CCOSTAC1.out is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:03.248	Main:Token:MSG7   unit  92 file CCOSTAC1.hbn is open, access:SEQUENTIAL form:UNFORMATTED r/w:YES recl:   80
+00:00:03.249	WriteStatus:(MSG7   unit  92 file CCOSTAC1.hbn is open, access:SEQUENTIAL form:UNFORMATTED r/w:YES recl:   80)
+00:00:03.249	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:03.250	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:03.250	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:03.250	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:03.250	Main:Token:MSG7 M_SIMSCN:about to call HSPF          24           0           0           0           0           0           0           0           0           0          25          26           0           0         100
+00:00:03.250	WriteStatus:(MSG7 M_SIMSCN:about to call HSPF          24           0           0           0           0           0           0           0           0           0          25          26           0           0         100)
+00:00:03.250	Main:Token:MSG10 HSPF
+00:00:03.250	WriteStatus:(MSG10 HSPF)
+00:00:03.250	Main:Token:MSG1  Processing a RUN data set from user's input file.
+00:00:03.250	WriteStatus:(MSG1  Processing a RUN data set from user's input file.)
+00:00:03.250	Main:Token:MSG2 GLOBAL
+00:00:03.250	WriteStatus:(MSG2 GLOBAL)
+00:00:03.250	Main:Token:MSG2 OPN SEQUENCE
+00:00:03.250	WriteStatus:(MSG2 OPN SEQUENCE)
+00:00:03.250	Main:Token:MSG2 FTABLES
+00:00:03.250	WriteStatus:(MSG2 FTABLES)
+00:00:03.250	Main:Token:MSG2 MASS-LINK
+00:00:03.250	WriteStatus:(MSG2 MASS-LINK)
+00:00:03.250	Main:Token:MSG3 
+00:00:03.250	WriteStatus:(MSG3 )
+00:00:03.250	Main:Token:MSG4 
+00:00:03.250	WriteStatus:(MSG4 )
+00:00:03.250	Main:Token:MSG2 PERLND
+00:00:03.250	WriteStatus:(MSG2 PERLND)
+00:00:03.250	Main:Token:MSG3    101
+00:00:03.250	WriteStatus:(MSG3    101)
+00:00:03.250	Main:Token:MSG4 ACTIVITY
+00:00:03.250	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.250	Main:Token:MSG4 PRINT-INFO
+00:00:03.250	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.250	Main:Token:MSG4 BINARY-INFO
+00:00:03.250	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.250	Main:Token:MSG4 GEN-INFO
+00:00:03.250	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM1
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM1)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM2
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM2)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM3
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM3)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM4
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM4)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM5
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM5)
+00:00:03.250	Main:Token:MSG4 MON-INTERCEP
+00:00:03.250	WriteStatus:(MSG4 MON-INTERCEP)
+00:00:03.250	Main:Token:MSG4 MON-LZETPARM
+00:00:03.250	WriteStatus:(MSG4 MON-LZETPARM)
+00:00:03.250	Main:Token:MSG4 PWAT-STATE1
+00:00:03.250	WriteStatus:(MSG4 PWAT-STATE1)
+00:00:03.250	Main:Token:MSG4 SED-PARM1
+00:00:03.250	WriteStatus:(MSG4 SED-PARM1)
+00:00:03.250	Main:Token:MSG4 SED-PARM2
+00:00:03.250	WriteStatus:(MSG4 SED-PARM2)
+00:00:03.250	Main:Token:MSG4 SED-PARM3
+00:00:03.250	WriteStatus:(MSG4 SED-PARM3)
+00:00:03.250	Main:Token:MSG4 MON-COVER
+00:00:03.250	WriteStatus:(MSG4 MON-COVER)
+00:00:03.250	Main:Token:MSG4 SED-STOR
+00:00:03.250	WriteStatus:(MSG4 SED-STOR)
+00:00:03.250	Main:Token:MSG3    102
+00:00:03.250	WriteStatus:(MSG3    102)
+00:00:03.250	Main:Token:MSG4 ACTIVITY
+00:00:03.250	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.250	Main:Token:MSG4 PRINT-INFO
+00:00:03.250	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.250	Main:Token:MSG4 BINARY-INFO
+00:00:03.250	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.250	Main:Token:MSG4 GEN-INFO
+00:00:03.250	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM1
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM1)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM2
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM2)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM3
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM3)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM4
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM4)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM5
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM5)
+00:00:03.250	Main:Token:MSG4 MON-INTERCEP
+00:00:03.250	WriteStatus:(MSG4 MON-INTERCEP)
+00:00:03.250	Main:Token:MSG4 MON-LZETPARM
+00:00:03.250	WriteStatus:(MSG4 MON-LZETPARM)
+00:00:03.250	Main:Token:MSG4 PWAT-STATE1
+00:00:03.250	WriteStatus:(MSG4 PWAT-STATE1)
+00:00:03.250	Main:Token:MSG4 SED-PARM1
+00:00:03.250	WriteStatus:(MSG4 SED-PARM1)
+00:00:03.250	Main:Token:MSG4 SED-PARM2
+00:00:03.250	WriteStatus:(MSG4 SED-PARM2)
+00:00:03.250	Main:Token:MSG4 SED-PARM3
+00:00:03.250	WriteStatus:(MSG4 SED-PARM3)
+00:00:03.250	Main:Token:MSG4 MON-COVER
+00:00:03.250	WriteStatus:(MSG4 MON-COVER)
+00:00:03.250	Main:Token:MSG4 SED-STOR
+00:00:03.250	WriteStatus:(MSG4 SED-STOR)
+00:00:03.250	Main:Token:MSG3    103
+00:00:03.250	WriteStatus:(MSG3    103)
+00:00:03.250	Main:Token:MSG4 ACTIVITY
+00:00:03.250	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.250	Main:Token:MSG4 PRINT-INFO
+00:00:03.250	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.250	Main:Token:MSG4 BINARY-INFO
+00:00:03.250	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.250	Main:Token:MSG4 GEN-INFO
+00:00:03.250	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM1
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM1)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM2
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM2)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM3
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM3)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM4
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM4)
+00:00:03.250	Main:Token:MSG4 PWAT-PARM5
+00:00:03.250	WriteStatus:(MSG4 PWAT-PARM5)
+00:00:03.250	Main:Token:MSG4 MON-INTERCEP
+00:00:03.250	WriteStatus:(MSG4 MON-INTERCEP)
+00:00:03.250	Main:Token:MSG4 MON-LZETPARM
+00:00:03.250	WriteStatus:(MSG4 MON-LZETPARM)
+00:00:03.250	Main:Token:MSG4 PWAT-STATE1
+00:00:03.250	WriteStatus:(MSG4 PWAT-STATE1)
+00:00:03.250	Main:Token:MSG4 SED-PARM1
+00:00:03.250	WriteStatus:(MSG4 SED-PARM1)
+00:00:03.250	Main:Token:MSG4 SED-PARM2
+00:00:03.250	WriteStatus:(MSG4 SED-PARM2)
+00:00:03.250	Main:Token:MSG4 SED-PARM3
+00:00:03.250	WriteStatus:(MSG4 SED-PARM3)
+00:00:03.250	Main:Token:MSG4 MON-COVER
+00:00:03.250	WriteStatus:(MSG4 MON-COVER)
+00:00:03.250	Main:Token:MSG4 SED-STOR
+00:00:03.265	WriteStatus:(MSG4 SED-STOR)
+00:00:03.265	Main:Token:MSG3    104
+00:00:03.265	WriteStatus:(MSG3    104)
+00:00:03.265	Main:Token:MSG4 ACTIVITY
+00:00:03.265	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.265	Main:Token:MSG4 PRINT-INFO
+00:00:03.265	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.265	Main:Token:MSG4 BINARY-INFO
+00:00:03.265	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.265	Main:Token:MSG4 GEN-INFO
+00:00:03.265	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM1
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM1)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM2
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM2)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM3
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM3)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM4
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM4)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM5
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM5)
+00:00:03.265	Main:Token:MSG4 MON-INTERCEP
+00:00:03.265	WriteStatus:(MSG4 MON-INTERCEP)
+00:00:03.265	Main:Token:MSG4 MON-LZETPARM
+00:00:03.265	WriteStatus:(MSG4 MON-LZETPARM)
+00:00:03.265	Main:Token:MSG4 PWAT-STATE1
+00:00:03.265	WriteStatus:(MSG4 PWAT-STATE1)
+00:00:03.265	Main:Token:MSG4 SED-PARM1
+00:00:03.265	WriteStatus:(MSG4 SED-PARM1)
+00:00:03.265	Main:Token:MSG4 SED-PARM2
+00:00:03.265	WriteStatus:(MSG4 SED-PARM2)
+00:00:03.265	Main:Token:MSG4 SED-PARM3
+00:00:03.265	WriteStatus:(MSG4 SED-PARM3)
+00:00:03.265	Main:Token:MSG4 MON-COVER
+00:00:03.265	WriteStatus:(MSG4 MON-COVER)
+00:00:03.265	Main:Token:MSG4 SED-STOR
+00:00:03.265	WriteStatus:(MSG4 SED-STOR)
+00:00:03.265	Main:Token:MSG3    105
+00:00:03.265	WriteStatus:(MSG3    105)
+00:00:03.265	Main:Token:MSG4 ACTIVITY
+00:00:03.265	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.265	Main:Token:MSG4 PRINT-INFO
+00:00:03.265	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.265	Main:Token:MSG4 BINARY-INFO
+00:00:03.265	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.265	Main:Token:MSG4 GEN-INFO
+00:00:03.265	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM1
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM1)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM2
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM2)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM3
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM3)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM4
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM4)
+00:00:03.265	Main:Token:MSG4 PWAT-PARM5
+00:00:03.265	WriteStatus:(MSG4 PWAT-PARM5)
+00:00:03.265	Main:Token:MSG4 MON-INTERCEP
+00:00:03.265	WriteStatus:(MSG4 MON-INTERCEP)
+00:00:03.265	Main:Token:MSG4 MON-LZETPARM
+00:00:03.265	WriteStatus:(MSG4 MON-LZETPARM)
+00:00:03.265	Main:Token:MSG4 PWAT-STATE1
+00:00:03.265	WriteStatus:(MSG4 PWAT-STATE1)
+00:00:03.265	Main:Token:MSG4 SED-PARM1
+00:00:03.265	WriteStatus:(MSG4 SED-PARM1)
+00:00:03.265	Main:Token:MSG4 SED-PARM2
+00:00:03.265	WriteStatus:(MSG4 SED-PARM2)
+00:00:03.265	Main:Token:MSG4 SED-PARM3
+00:00:03.265	WriteStatus:(MSG4 SED-PARM3)
+00:00:03.265	Main:Token:MSG4 MON-COVER
+00:00:03.265	WriteStatus:(MSG4 MON-COVER)
+00:00:03.265	Main:Token:MSG4 SED-STOR
+00:00:03.265	WriteStatus:(MSG4 SED-STOR)
+00:00:03.265	Main:Token:MSG3 
+00:00:03.265	WriteStatus:(MSG3 )
+00:00:03.265	Main:Token:MSG4 
+00:00:03.265	WriteStatus:(MSG4 )
+00:00:03.265	Main:Token:MSG2 IMPLND
+00:00:03.265	WriteStatus:(MSG2 IMPLND)
+00:00:03.265	Main:Token:MSG3    101
+00:00:03.265	WriteStatus:(MSG3    101)
+00:00:03.265	Main:Token:MSG4 ACTIVITY
+00:00:03.265	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.265	Main:Token:MSG4 PRINT-INFO
+00:00:03.265	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.265	Main:Token:MSG4 BINARY-INFO
+00:00:03.265	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.265	Main:Token:MSG4 GEN-INFO
+00:00:03.265	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.265	Main:Token:MSG4 IWAT-PARM1
+00:00:03.265	WriteStatus:(MSG4 IWAT-PARM1)
+00:00:03.265	Main:Token:MSG4 IWAT-PARM2
+00:00:03.265	WriteStatus:(MSG4 IWAT-PARM2)
+00:00:03.265	Main:Token:MSG4 IWAT-PARM3
+00:00:03.265	WriteStatus:(MSG4 IWAT-PARM3)
+00:00:03.265	Main:Token:MSG4 IWAT-STATE1
+00:00:03.265	WriteStatus:(MSG4 IWAT-STATE1)
+00:00:03.265	Main:Token:MSG4 SLD-PARM1
+00:00:03.265	WriteStatus:(MSG4 SLD-PARM1)
+00:00:03.265	Main:Token:MSG4 SLD-PARM2
+00:00:03.265	WriteStatus:(MSG4 SLD-PARM2)
+00:00:03.265	Main:Token:MSG4 SLD-STOR
+00:00:03.265	WriteStatus:(MSG4 SLD-STOR)
+00:00:03.265	Main:Token:MSG3 
+00:00:03.265	WriteStatus:(MSG3 )
+00:00:03.265	Main:Token:MSG4 
+00:00:03.265	WriteStatus:(MSG4 )
+00:00:03.265	Main:Token:MSG2 RCHRES
+00:00:03.265	WriteStatus:(MSG2 RCHRES)
+00:00:03.265	Main:Token:MSG3      1
+00:00:03.265	WriteStatus:(MSG3      1)
+00:00:03.265	Main:Token:MSG4 ACTIVITY
+00:00:03.265	WriteStatus:(MSG4 ACTIVITY)
+00:00:03.265	Main:Token:MSG4 PRINT-INFO
+00:00:03.265	WriteStatus:(MSG4 PRINT-INFO)
+00:00:03.265	Main:Token:MSG4 BINARY-INFO
+00:00:03.265	WriteStatus:(MSG4 BINARY-INFO)
+00:00:03.265	Main:Token:MSG4 GEN-INFO
+00:00:03.265	WriteStatus:(MSG4 GEN-INFO)
+00:00:03.265	Main:Token:MSG4 HYDR-PARM1
+00:00:03.281	WriteStatus:(MSG4 HYDR-PARM1)
+00:00:03.281	Main:Token:MSG4 HYDR-PARM2
+00:00:03.281	WriteStatus:(MSG4 HYDR-PARM2)
+00:00:03.390	Main:Token:MSG4 HYDR-IRRIG
+00:00:03.390	WriteStatus:(MSG4 HYDR-IRRIG)
+00:00:03.390	Main:Token:MSG4 HYDR-INIT
+00:00:03.390	WriteStatus:(MSG4 HYDR-INIT)
+00:00:03.390	Main:Token:MSG4 ADCALC-DATA
+00:00:03.390	WriteStatus:(MSG4 ADCALC-DATA)
+00:00:03.390	Main:Token:MSG4 SANDFG
+00:00:03.390	WriteStatus:(MSG4 SANDFG)
+00:00:03.390	Main:Token:MSG4 SED-GENPARM
+00:00:03.390	WriteStatus:(MSG4 SED-GENPARM)
+00:00:03.390	Main:Token:MSG4 SAND-PM
+00:00:03.390	WriteStatus:(MSG4 SAND-PM)
+00:00:03.390	Main:Token:MSG4 SILT-CLAY-PM
+00:00:03.390	WriteStatus:(MSG4 SILT-CLAY-PM)
+00:00:03.390	Main:Token:MSG4 SILT-CLAY-PM
+00:00:03.390	WriteStatus:(MSG4 SILT-CLAY-PM)
+00:00:03.390	Main:Token:MSG4 SSED-INIT
+00:00:03.390	WriteStatus:(MSG4 SSED-INIT)
+00:00:03.390	Main:Token:MSG4 BED-INIT
+00:00:03.390	WriteStatus:(MSG4 BED-INIT)
+00:00:03.390	Main:Token:MSG3 
+00:00:03.390	WriteStatus:(MSG3 )
+00:00:03.390	Main:Token:MSG4 
+00:00:03.390	WriteStatus:(MSG4 )
+00:00:03.390	Main:Token:MSG3 
+00:00:03.390	WriteStatus:(MSG3 )
+00:00:03.390	Main:Token:MSG3 
+00:00:03.390	WriteStatus:(MSG3 )
+00:00:03.390	Main:Token:MSG4 
+00:00:03.390	WriteStatus:(MSG4 )
+00:00:03.390	Main:Token:MSG2 EXT SOURCES
+00:00:03.390	WriteStatus:(MSG2 EXT SOURCES)
+00:00:03.390	Main:Token:MSG2 SCHEMATIC
+00:00:03.390	WriteStatus:(MSG2 SCHEMATIC)
+00:00:03.390	Main:Token:MSG2 EXT TARGETS
+00:00:03.390	WriteStatus:(MSG2 EXT TARGETS)
+00:00:03.390	Main:Token:MSG1  Operations supervisor calling operating modules.
+00:00:03.390	WriteStatus:(MSG1  Operations supervisor calling operating modules.)
+00:00:03.625	Main:Token:MSG1 Executing
+00:00:03.625	WriteStatus:(MSG1 Executing)
+00:00:03.625	Main:Token:MSG2   Now
+00:00:03.625	WriteStatus:(MSG2   Now)
+00:00:03.625	Main:Token:MSG4 Complete
+00:00:03.625	WriteStatus:(MSG4 Complete)
+00:00:03.740	Main:Token:PROGRESS  2
+00:00:03.740	WriteStatus:(PROGRESS  2)
+00:00:03.740	Main:Token:MSG3 2%
+00:00:03.740	WriteStatus:(MSG3 2%)
+00:00:03.740	Main:Token:PROGRESS  4
+00:00:03.740	WriteStatus:(PROGRESS  4)
+00:00:03.740	Main:Token:MSG3 4%
+00:00:03.740	WriteStatus:(MSG3 4%)
+00:00:03.740	Main:Token:PROGRESS  7
+00:00:03.740	WriteStatus:(PROGRESS  7)
+00:00:03.740	Main:Token:MSG3 7%
+00:00:03.740	WriteStatus:(MSG3 7%)
+00:00:03.849	Main:Token:PROGRESS  9
+00:00:03.849	WriteStatus:(PROGRESS  9)
+00:00:03.849	Main:Token:MSG3 9%
+00:00:03.849	WriteStatus:(MSG3 9%)
+00:00:03.849	Main:Token:PROGRESS 11
+00:00:03.849	WriteStatus:(PROGRESS 11)
+00:00:03.849	Main:Token:MSG3 11%
+00:00:03.849	WriteStatus:(MSG3 11%)
+00:00:03.849	Main:Token:PROGRESS 14
+00:00:03.849	WriteStatus:(PROGRESS 14)
+00:00:03.849	Main:Token:MSG3 14%
+00:00:03.849	WriteStatus:(MSG3 14%)
+00:00:03.959	Main:Token:PROGRESS 16
+00:00:03.959	WriteStatus:(PROGRESS 16)
+00:00:03.959	Main:Token:MSG3 16%
+00:00:03.959	WriteStatus:(MSG3 16%)
+00:00:03.959	Main:Token:PROGRESS 19
+00:00:03.959	WriteStatus:(PROGRESS 19)
+00:00:03.959	Main:Token:MSG3 19%
+00:00:03.959	WriteStatus:(MSG3 19%)
+00:00:04.075	Main:Token:PROGRESS 21
+00:00:04.075	WriteStatus:(PROGRESS 21)
+00:00:04.075	Main:Token:MSG3 21%
+00:00:04.075	WriteStatus:(MSG3 21%)
+00:00:04.075	Main:Token:PROGRESS 23
+00:00:04.075	WriteStatus:(PROGRESS 23)
+00:00:04.075	Main:Token:MSG3 23%
+00:00:04.075	WriteStatus:(MSG3 23%)
+00:00:04.075	Main:Token:PROGRESS 26
+00:00:04.075	WriteStatus:(PROGRESS 26)
+00:00:04.075	Main:Token:MSG3 26%
+00:00:04.075	WriteStatus:(MSG3 26%)
+00:00:04.075	Main:Token:PROGRESS 28
+00:00:04.075	WriteStatus:(PROGRESS 28)
+00:00:04.075	Main:Token:MSG3 28%
+00:00:04.075	WriteStatus:(MSG3 28%)
+00:00:04.184	Main:Token:PROGRESS 30
+00:00:04.184	WriteStatus:(PROGRESS 30)
+00:00:04.184	Main:Token:MSG3 30%
+00:00:04.184	WriteStatus:(MSG3 30%)
+00:00:04.184	Main:Token:PROGRESS 33
+00:00:04.184	WriteStatus:(PROGRESS 33)
+00:00:04.184	Main:Token:MSG3 33%
+00:00:04.184	WriteStatus:(MSG3 33%)
+00:00:04.292	Main:Token:PROGRESS 35
+00:00:04.292	WriteStatus:(PROGRESS 35)
+00:00:04.292	Main:Token:MSG3 35%
+00:00:04.292	WriteStatus:(MSG3 35%)
+00:00:04.292	Main:Token:PROGRESS 38
+00:00:04.292	WriteStatus:(PROGRESS 38)
+00:00:04.292	Main:Token:MSG3 38%
+00:00:04.292	WriteStatus:(MSG3 38%)
+00:00:04.292	Main:Token:PROGRESS 40
+00:00:04.292	WriteStatus:(PROGRESS 40)
+00:00:04.292	Main:Token:MSG3 40%
+00:00:04.292	WriteStatus:(MSG3 40%)
+00:00:04.292	Main:Token:PROGRESS 42
+00:00:04.292	WriteStatus:(PROGRESS 42)
+00:00:04.292	Main:Token:MSG3 42%
+00:00:04.292	WriteStatus:(MSG3 42%)
+00:00:04.402	Main:Token:PROGRESS 45
+00:00:04.402	WriteStatus:(PROGRESS 45)
+00:00:04.402	Main:Token:MSG3 45%
+00:00:04.402	WriteStatus:(MSG3 45%)
+00:00:04.402	Main:Token:PROGRESS 47
+00:00:04.402	WriteStatus:(PROGRESS 47)
+00:00:04.402	Main:Token:MSG3 47%
+00:00:04.402	WriteStatus:(MSG3 47%)
+00:00:04.402	Main:Token:PROGRESS 50
+00:00:04.402	WriteStatus:(PROGRESS 50)
+00:00:04.402	Main:Token:MSG3 50%
+00:00:04.402	WriteStatus:(MSG3 50%)
+00:00:04.620	Main:Token:PROGRESS 52
+00:00:04.620	WriteStatus:(PROGRESS 52)
+00:00:04.620	Main:Token:MSG3 52%
+00:00:04.620	WriteStatus:(MSG3 52%)
+00:00:04.620	Main:Token:PROGRESS 54
+00:00:04.620	WriteStatus:(PROGRESS 54)
+00:00:04.620	Main:Token:MSG3 54%
+00:00:04.620	WriteStatus:(MSG3 54%)
+00:00:04.620	Main:Token:PROGRESS 57
+00:00:04.620	WriteStatus:(PROGRESS 57)
+00:00:04.620	Main:Token:MSG3 57%
+00:00:04.620	WriteStatus:(MSG3 57%)
+00:00:04.620	Main:Token:PROGRESS 59
+00:00:04.620	WriteStatus:(PROGRESS 59)
+00:00:04.620	Main:Token:MSG3 59%
+00:00:04.620	WriteStatus:(MSG3 59%)
+00:00:04.723	Main:Token:PROGRESS 61
+00:00:04.723	WriteStatus:(PROGRESS 61)
+00:00:04.723	Main:Token:MSG3 61%
+00:00:04.723	WriteStatus:(MSG3 61%)
+00:00:04.723	Main:Token:PROGRESS 64
+00:00:04.723	WriteStatus:(PROGRESS 64)
+00:00:04.723	Main:Token:MSG3 64%
+00:00:04.724	WriteStatus:(MSG3 64%)
+00:00:04.724	Main:Token:PROGRESS 66
+00:00:04.724	WriteStatus:(PROGRESS 66)
+00:00:04.724	Main:Token:MSG3 66%
+00:00:04.724	WriteStatus:(MSG3 66%)
+00:00:04.825	Main:Token:PROGRESS 69
+00:00:04.825	WriteStatus:(PROGRESS 69)
+00:00:04.825	Main:Token:MSG3 69%
+00:00:04.825	WriteStatus:(MSG3 69%)
+00:00:04.825	Main:Token:PROGRESS 71
+00:00:04.825	WriteStatus:(PROGRESS 71)
+00:00:04.825	Main:Token:MSG3 71%
+00:00:04.825	WriteStatus:(MSG3 71%)
+00:00:04.825	Main:Token:PROGRESS 73
+00:00:04.825	WriteStatus:(PROGRESS 73)
+00:00:04.825	Main:Token:MSG3 73%
+00:00:04.825	WriteStatus:(MSG3 73%)
+00:00:04.935	Main:Token:PROGRESS 76
+00:00:04.935	WriteStatus:(PROGRESS 76)
+00:00:04.935	Main:Token:MSG3 76%
+00:00:04.935	WriteStatus:(MSG3 76%)
+00:00:04.935	Main:Token:PROGRESS 78
+00:00:04.935	WriteStatus:(PROGRESS 78)
+00:00:04.935	Main:Token:MSG3 78%
+00:00:04.935	WriteStatus:(MSG3 78%)
+00:00:04.935	Main:Token:PROGRESS 80
+00:00:04.935	WriteStatus:(PROGRESS 80)
+00:00:04.935	Main:Token:MSG3 80%
+00:00:04.935	WriteStatus:(MSG3 80%)
+00:00:04.935	Main:Token:PROGRESS 83
+00:00:04.935	WriteStatus:(PROGRESS 83)
+00:00:04.935	Main:Token:MSG3 83%
+00:00:04.935	WriteStatus:(MSG3 83%)
+00:00:04.935	Main:Token:PROGRESS 85
+00:00:04.935	WriteStatus:(PROGRESS 85)
+00:00:04.935	Main:Token:MSG3 85%
+00:00:04.935	WriteStatus:(MSG3 85%)
+00:00:04.935	Main:Token:PROGRESS 88
+00:00:04.935	WriteStatus:(PROGRESS 88)
+00:00:04.935	Main:Token:MSG3 88%
+00:00:04.935	WriteStatus:(MSG3 88%)
+00:00:04.935	Main:Token:PROGRESS 90
+00:00:04.935	WriteStatus:(PROGRESS 90)
+00:00:04.935	Main:Token:MSG3 90%
+00:00:04.935	WriteStatus:(MSG3 90%)
+00:00:04.935	Main:Token:PROGRESS 92
+00:00:04.935	WriteStatus:(PROGRESS 92)
+00:00:04.935	Main:Token:MSG3 92%
+00:00:04.935	WriteStatus:(MSG3 92%)
+00:00:04.935	Main:Token:PROGRESS 95
+00:00:04.935	WriteStatus:(PROGRESS 95)
+00:00:04.935	Main:Token:MSG3 95%
+00:00:04.935	WriteStatus:(MSG3 95%)
+00:00:04.935	Main:Token:PROGRESS 97
+00:00:04.935	WriteStatus:(PROGRESS 97)
+00:00:04.935	Main:Token:MSG3 97%
+00:00:04.935	WriteStatus:(MSG3 97%)
+00:00:05.375	ProcessInput:Simulate complete 0
+00:00:05.375	Main:Token:MSG10 HSPF Done
+00:00:05.375	Main:Token:MSG10 HSPF Done
+00:00:05.375	ProcessInput:InputProcessed
+00:00:05.375	WriteStatus:(MSG10 HSPF Done)
+00:00:05.375	Main:Token:MSG99 HSPF D
+00:00:05.375	WriteStatus:(MSG99 HSPF D)
+00:00:05.375	Main:Token:MSG7 File Status at before WDM closing in M_SIMSCN
+00:00:05.375	WriteStatus:(MSG7 File Status at before WDM closing in M_SIMSCN)
+00:00:05.375	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:05.375	Main:Token:MSG7 File Status at about to close           25
+00:00:05.375	WriteStatus:(MSG7 File Status at about to close           25)
+00:00:05.375	Main:Token:MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  25 file CCOSTAC1.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:05.375	Main:Token:MSG7 File Status at after one WDM closing in M_SIMSCN
+00:00:05.375	WriteStatus:(MSG7 File Status at after one WDM closing in M_SIMSCN)
+00:00:05.375	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:05.375	Main:Token:MSG7 File Status at about to close           26
+00:00:05.375	WriteStatus:(MSG7 File Status at about to close           26)
+00:00:05.375	Main:Token:MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit  26 file ..\METdata.wdm is open, access:DIRECT form:UNFORMATTED r/w:YES recl: 2048)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:05.375	Main:Token:MSG7 File Status at after one WDM closing in M_SIMSCN
+00:00:05.375	WriteStatus:(MSG7 File Status at after one WDM closing in M_SIMSCN)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:05.375	Main:Token:MSG7 M_SIMSCN:back from HSPF with           0
+00:00:05.375	WriteStatus:(MSG7 M_SIMSCN:back from HSPF with           0)
+00:00:05.375	Main:Token:MSG7 File Status at at end of File Closing in M_SIMSCN
+00:00:05.375	WriteStatus:(MSG7 File Status at at end of File Closing in M_SIMSCN)
+00:00:05.375	Main:Token:MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80
+00:00:05.375	WriteStatus:(MSG7   unit  99 file ERROR.FIL is open, access:SEQUENTIAL form:FORMATTED r/w:YES recl:   80)
+00:00:05.375	Main:Token:MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048
+00:00:05.375	WriteStatus:(MSG7   unit 100 file c:\basins42\models\winhspf30\bin\hspfmsg.wdm is open, access:DIRECT form:UNFORMATTED r/w:NO recl: 2048)
+00:00:07.391	InputCallback:Process 6 bytes
+00:00:07.391	ProcessInput:EXIT
+00:00:07.391	WriteStatus:(EXIT)
+00:00:07.391	ProcessInput:InputProcessed

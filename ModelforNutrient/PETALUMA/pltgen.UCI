@@ -1,0 +1,65 @@
+RUN
+
+GLOBAL
+  compile results for SF Bay Cu study                               
+  START       1980/10/01 00:00  END    2005/09/30 24:00
+  RUN INTERP OUTPT LEVELS    4    0
+  RESUME     0 RUN     1                          UNITS    1
+END GLOBAL
+
+FILES
+<FILE>  <UN#>***<----FILE NAME------------------------------------------------->
+MESSU      24   pltgen.ech
+           91   ..\PETALUMA-pltg.out
+WDM1       25   PETALUMA.wdm
+WDM2       26   ..\abagmet.wdm
+END FILES
+
+OPN SEQUENCE
+    INGRP              INDELT 24:00
+      PLTGEN       1
+    END INGRP
+END OPN SEQUENCE
+
+PLTGEN
+  PLOTINFO
+    # -  # FILE  NPT  NMN LABL  PYR PIVL ***
+    1        91         2              1
+  END PLOTINFO
+
+  GEN-LABELS
+    # -  #<----------------Title----------------->   ***    <------Y axis------>
+    1         PETALUMA Cu                                   ug/L
+  END GEN-LABELS
+
+  SCALING
+    # -  #      YMIN      YMAX     IVLIN ***
+    1             0.     1500.       20.
+  END SCALING
+
+  CURV-DATA         (first curve)
+              <-Curve label--> Line Intg  Col Tran ***
+    # -  #                     type  eqv code code ***
+    1         Total                    5    1 AVER
+  END CURV-DATA
+
+  CURV-DATA         (second curve)
+              <-Curve label--> Line Intg  Col Tran ***
+    # -  #                     type  eqv code code ***
+    1         Dissolved                4    1 AVER
+  END CURV-DATA
+END PLTGEN
+
+EXT SOURCES
+<-Volume-> <Member> SsysSgap<--Mult-->Tran <-Target vols> <-Grp> <-Member->  ***
+<Name>   # <Name> # tem strg<-factor->strg <Name>   #   #        <Name> # #  ***
+WDM1  1006 CUCN     ENGL       1.          PLTGEN   1     INPUT  MEAN   1
+WDM1  1007 CUCN     ENGL       1.          PLTGEN   1     INPUT  MEAN   2
+END EXT SOURCES
+
+NETWORK
+<-Volume-> <-Grp> <-Member-><--Mult-->Tran <-Target vols> <-Grp> <-Member->  ***
+<Name>   #        <Name> # #<-factor->strg <Name>   #   #        <Name> # #  ***
+END NETWORK
+
+END RUN

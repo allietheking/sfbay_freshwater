@@ -1,0 +1,973 @@
+15:40:32.101 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+15:44:54.241 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+14:04:03.317 : LOG_MSG:ERROR.FIL OPENED
+14:04:03.317 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:04:03.317 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:04:03.317 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:04:03.317 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:04:03.333 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:04:03.333 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:04:03.333 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:04:03.333 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:04:03.333 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:04:03.349 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:04:03.349 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:04:03.349 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:04:03.349 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:04:03.349 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:04:03.349 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:04:03.349 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:04:03.349 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:04:03.349 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:04:03.349 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:04:03.349 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:04:03.349 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:04:03.349 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:04:03.364 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:04:03.364 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:04:03.364 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:04:03.364 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:06:16.624 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.624 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.624 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.624 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.624 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.624 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.624 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.624 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.624 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.671 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.671 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.671 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.671 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.671 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.671 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.671 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.671 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.671 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.671 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.671 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.671 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.671 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.671 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.671 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.671 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.671 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.671 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.671 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.671 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.671 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.686 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.686 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.686 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.686 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.686 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.686 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.686 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.686 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.686 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.686 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.686 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.702 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.702 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.704 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.704 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.704 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.704 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.705 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.705 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.705 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.705 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.705 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.705 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.705 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.706 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.706 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.706 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.707 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.707 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.707 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.707 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.707 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.707 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.707 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.709 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.709 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.710 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.710 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.710 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.710 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.710 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.710 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.710 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.711 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.711 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.711 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.712 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.712 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.712 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.712 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.712 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.712 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.712 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.712 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.712 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.714 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.714 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.714 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.714 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.715 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.715 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.715 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.715 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.715 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.715 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.715 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.716 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.716 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.716 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.716 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.716 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.716 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.716 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.716 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.717 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.717 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.719 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.719 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.719 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.719 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.719 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.720 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.720 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.720 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.720 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.721 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.721 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.721 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.721 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.721 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.721 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:16.721 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:16.721 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:16.721 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:16.721 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.721 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:16.721 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:16.721 : HASS_ENT:F90_INQNAM:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.721 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         100           1 c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.721 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         100           0
+14:06:16.721 : atcWdmHandle:New:100:0:c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.721 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         100
+14:06:16.721 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         100           0
+14:06:16.721 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         100 F
+14:06:16.721 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F c:\basins42\models\winhspf30\bin\hspfmsg.wdm
+14:06:16.721 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:16.721 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:16.721 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:16.721 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.044 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.044 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.044 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.044 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.044 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.044 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.044 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.044 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.044 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.044 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.044 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.044 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.044 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.060 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.060 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.060 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.060 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.060 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.060 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.060 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.060 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.060 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.060 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.060 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.060 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.060 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.060 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.060 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.060 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.060 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.060 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.060 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.060 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.060 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.060 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.076 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.076 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.076 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.076 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.076 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.076 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.076 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.076 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.076 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:21.076 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:21.076 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:21.076 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:21.076 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:21.076 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:21.076 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:21.076 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:28.240 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:28.240 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:28.240 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:28.240 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:28.240 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:06:28.240 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:06:28.240 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:06:28.240 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:06:28.240 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:06:28.240 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:06:28.255 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:06:28.255 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:06:28.255 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:06:28.255 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:24.346 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:24.346 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:24.346 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:24.346 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:24.346 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:24.346 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:24.346 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:24.346 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:24.346 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:24.361 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:24.361 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:24.361 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:24.361 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:24.361 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:24.361 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:24.361 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:24.361 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:24.361 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:24.361 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:24.361 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:24.361 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:24.361 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:24.361 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:24.361 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:24.361 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:24.361 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.601 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.601 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.601 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.601 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.601 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.601 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.616 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.616 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.616 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.616 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.616 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.616 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.616 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.616 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:27.616 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:27.616 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:27.616 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:27.616 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:27.616 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:27.616 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:27.616 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:35.419 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:35.419 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:35.419 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:35.419 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:35.419 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:10:35.419 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:10:35.419 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:10:35.419 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:35.419 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:10:35.419 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:10:35.435 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:10:35.435 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:10:35.435 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:10:35.435 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:35.171 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:35.171 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:35.171 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:35.171 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:35.186 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:35.186 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:35.186 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:35.186 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:35.186 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:35.186 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:35.186 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:35.186 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:35.186 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:35.186 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:35.186 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:35.186 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:35.186 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:35.186 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:35.186 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:35.186 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:37.078 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:37.078 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:37.078 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:37.078 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:37.078 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:37.078 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.910 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.910 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:45.925 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.925 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:45.925 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.925 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:45.925 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:45.925 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:45.925 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:16:45.925 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:16:45.925 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:16:45.925 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:45.925 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:16:45.925 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:16:45.941 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:16:45.941 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:16:45.941 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:16:45.941 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:21:59.277 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:21:59.277 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:21:59.277 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:21:59.277 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:21:59.277 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:21:59.277 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:21:59.277 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:21:59.277 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:21:59.277 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:21:59.277 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:21:59.277 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:21:59.277 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:21:59.277 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:21:59.292 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:21:59.292 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:21:59.292 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:21:59.292 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:22:01.168 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:01.168 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:01.168 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:01.168 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:01.168 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:01.168 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:01.168 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:01.168 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:01.168 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:01.168 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:01.168 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.168 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:01.183 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:01.183 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:01.183 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:01.183 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:01.183 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:01.183 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:01.183 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:01.183 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:01.183 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:01.183 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:01.183 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:01.183 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:01.183 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:01.183 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.625 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.625 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.625 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:08.625 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:08.625 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:08.625 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:08.625 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.625 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:08.625 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.641 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:08.641 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:08.641 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:08.641 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:22:08.641 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:22:08.641 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:22:08.641 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:22:08.641 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:22:08.641 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:22:08.641 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:22:08.641 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:22:08.641 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:22:08.641 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:22:08.656 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:22:08.656 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:22:08.656 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:22:08.656 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:26:44.693 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\SCLARAVC\SCLARAVC.wdm
+14:26:44.693 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\SCLARAVC\SCLARAVC.wdm
+14:26:44.693 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:26:44.693 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:26:44.693 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:26:44.693 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:26:44.693 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\SCLARAVC\SCLARAVC.wdm
+14:26:44.693 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:26:44.693 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\SCLARAVC\SCLARAVC.wdm
+14:26:44.693 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:26:44.693 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:26:44.693 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:26:44.693 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\SCLARAVC\SCLARAVC.wdm
+14:45:59.643 : LOG_MSG:ERROR.FIL OPENED
+14:45:59.659 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:45:59.659 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:45:59.659 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:45:59.659 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:45:59.659 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:45:59.659 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:45:59.659 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:45:59.659 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:45:59.659 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:45:59.706 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:45:59.706 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:45:59.706 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:45:59.706 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:45:59.706 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:45:59.706 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:45:59.706 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:45:59.706 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:45:59.706 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:45:59.706 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:45:59.706 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:45:59.706 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:45:59.706 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:45:59.737 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:45:59.737 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:45:59.737 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:45:59.737 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:46:01.410 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:01.410 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:01.410 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:01.410 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:01.410 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:01.410 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:01.410 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:01.410 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:01.410 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:01.410 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:01.410 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:01.410 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:01.410 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:01.410 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:01.410 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:01.410 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:01.410 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:01.410 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:01.410 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:01.410 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:01.410 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:01.410 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:01.410 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.085 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.085 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.085 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:09.085 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:09.085 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:09.085 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:09.085 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.085 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:09.085 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.085 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:09.085 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:09.085 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:09.085 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\NSONOMA\NSONOMA.wdm
+14:46:09.101 : HASS_ENT:F90_INQNAM:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:46:09.101 : HASS_ENT:INQUIRE_NAME:BEG:           0         101           0         101 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:46:09.101 : HASS_ENT:INQUIRE_NAME:INX:           0         101           0 F
+14:46:09.101 : HASS_ENT:INQUIRE_NAME:INF:           0         101           0 F
+14:46:09.101 : HASS_ENT:INQUIRE_NAME:DON:           0         101           0 F
+14:46:09.101 : HASS_ENT:INQUIRE_NAME:ASN:           0         101         101 F
+14:46:09.101 : HASS_ENT:F90_WDBOPNR:entr:WDMSFL,RWFLG:         101           0 C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:46:09.101 : HASS_ENT:F90_WDBOPNR:exit:WDMSFL,RETCOD         101           0
+14:46:09.101 : atcWdmHandle:New:101:0:C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+14:46:09.101 : HASS_ENT:F90_WDFLCL:entry:WDMSFL:         101
+14:46:09.101 : HASS_ENT:F90_WDFLCL:close:WDMSFL:RETCOD:         101           0
+14:46:09.101 : HASS_ENT:F90_WDFLCL:opned:WDMSFL:         101 F
+14:46:09.101 : HASS_ENT:F90_WDFLCL:final:WDMSFL:           0 F C:\Projects\Bay Area Hydrology Model\Model\METdata.wdm
+15:01:07.035 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+14:46:36.629 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+17:50:29.582 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+17:55:02.965 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
+11:58:51.377 : LOG_MSG:ERROR.FIL OPENED
+FILBLK RETCOD           0
+wdmfl           0           0           0           0
+FILBLK RETCOD           0
