@@ -2,6 +2,7 @@
 Read in BAHM outputs and USGS data, compile to pli and bc files
 for reading into D-Flow FM.
 """
+from __future__ import print_function
 
 import os
 import glob
@@ -9,6 +10,8 @@ import pandas as pd
 
 from stompy import utils
 from stompy.spatial import wkb2shp, proj_utils
+from stompy.io import rdb
+
 import stompy.model.delft.io as dio
 
 opj=os.path.join
@@ -24,8 +27,6 @@ os.path.exists(out_dir) or os.makedirs(out_dir)
 
 ## 
 
-reload(wkb2shp)
-
 # Load name and location data for the watersheds which
 # enter the Bay
 shp_fn=opj(flow_dir,
@@ -36,6 +37,13 @@ pour_points=wkb2shp.shp2geom( shp_fn,
                               target_srs='EPSG:26910' )
 ## 
 
+
+def df_post(df):
+    """ add cms, and unix time, in place.
+    """
+    df['flow_cms']=0.028316847*df.flow_cfs
+    df['unix_time'] = utils.to_unix( df.date.values )
+    
 # reading the BAHM output files:
 def load_bahm_flow(src_fn):
     df=pd.read_fwf(src_fn,
@@ -43,13 +51,11 @@ def load_bahm_flow(src_fn):
                    skiprows=5,
                    names=['year','month','day','flow_cfs'],
                    parse_dates={'date': [0,1,2] } )
-
-    df['flow_cms']=0.028316847*df.flow_cfs
-    df['unix_time'] = utils.to_unix( df.date.values )
+    df_post(df)
 
     return df
 
-## 
+##  
 for rec in pour_points:
     name=rec['immediatec']
 
@@ -59,18 +65,28 @@ for rec in pour_points:
     if src_name=='UALAMEDAg':
         src_name='UALAMEDA'
     elif src_name=='COYOTEd':
+        # HERE - COYOTE needs to come from USGS data anyway, not to mention that
+        # that the src_name shouldn't have the 'd'.
         src_name='COYOTE'
-        
-    src_fn=opj(flow_dir,"%s.txt"%src_name)
 
-    assert os.path.exists(src_fn)
-    print "name: %s fn: %s"%(name,src_fn)
-    df=load_bahm_flow(src_fn)
+    if src_name=='COYOTE':
+        # special handling
+        usgs_coyote_fn=opj(flow_dir,'USGS flow','11172175.txt')
+        ds=rdb.rdb_to_dataset(usgs_coyote_fn)
+        df1=ds.to_dataframe().reset_index()
+        df=df1.rename(columns={'stream_flow_mean_daily':'flow_cfs','time':'date'})
+        df_post(df)
 
-    # At least through the GUI, pli files must have more than on node.
+    else:
+        src_fn=opj(flow_dir,"%s.txt"%src_name)
+        assert os.path.exists(src_fn)
+        print("name: %s fn: %s"%(name,src_fn))
+        df=load_bahm_flow(src_fn)
+
+    # At least through the GUI, pli files must have more than one node.
     # Don't get too big for our britches, just stick a second node 50m east
     # if the incoming data is a point
-    if 0: #-- Write a PLI file
+    if 1: #-- Write a PLI file
         pnts=np.atleast_2d(np.array(rec['geom']))
         if pnts.shape[0]==1:
             pnts=np.concatenate( [pnts,pnts])
@@ -81,7 +97,6 @@ for rec in pour_points:
 
         dio.write_pli(pli_fn,pli_data)
 
-        
     if 1: #-- Write a BC file
         
         bc_fn=opj(out_dir,"%s.bc"%src_name)
@@ -94,7 +109,8 @@ for rec in pour_points:
             # of a period, and the value is held constant until the next timestamp
             # how about unix epoch for time units?
             fp.write("[forcing]\n")
-            fp.write("Name               = Bnd_%s_0001\n"%src_name)
+            # This Name needs to match the name in the pli
+            fp.write("Name               = %s_0001\n"%src_name)
             fp.write("Function           = timeseries\n")
             fp.write("Time-interpolation = block-from\n") # or linear, block-to 
             fp.write("Quantity           = time\n")
