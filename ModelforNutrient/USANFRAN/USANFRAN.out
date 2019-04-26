@@ -363,7 +363,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   21.917     1.523     1.477     2.708     5.709     5.718    14.617     0.000     0.000     0.000     0.000
+                                   21.917     1.523     1.477     2.708     5.709     5.718    14.618     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -372,7 +372,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.477     4.871    25.749     2.713    18.933     3.812
+                                    1.478     4.871    25.750     2.713    18.934     3.812
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.203E+01
@@ -402,7 +402,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   31.251     4.856     3.623     4.158    12.637     8.447    19.060     0.000     0.000     0.000     0.000
+                                   31.251     4.856     3.623     4.159    12.637     8.447    19.060     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -435,13 +435,13 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.739     0.000     0.000     0.002     0.000     5.657     0.080     0.153
+                                    5.739     0.000     0.000     0.002     0.000     5.656     0.081     0.153
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   19.398     0.642     0.833     2.734     4.209     5.941    19.072     0.000     0.000     0.000     0.000
+                                   19.398     0.642     0.833     2.734     4.209     5.942    19.072     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -450,7 +450,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.834     3.838    30.288     1.767    22.153     3.961
+                                    0.834     3.838    30.288     1.767    22.152     3.961
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.415E+01
@@ -474,13 +474,13 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.623     0.000     0.000     0.004     0.000     5.569     0.050     0.262
+                                    5.623     0.000     0.000     0.004     0.000     5.570     0.050     0.262
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   21.917     0.599     1.424     5.084     7.107     3.863    19.115     0.000     0.000     0.000     0.000
+                                   21.917     0.599     1.424     5.084     7.107     3.863    19.116     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -489,7 +489,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.424     5.505    30.381     2.824    22.168     7.174
+                                    1.424     5.505    30.382     2.824    22.169     7.174
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.653E+01
@@ -513,13 +513,13 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.908     0.000     0.000     0.003     0.000     5.849     0.055     0.332
+                                    5.907     0.000     0.000     0.003     0.000     5.849     0.055     0.332
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   31.251     3.105     4.155     8.527    15.788     6.116    24.925     0.000     0.000     0.000     0.000
+                                   31.251     3.105     4.156     8.528    15.788     6.116    24.925     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -528,7 +528,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    4.156     7.257    38.491     4.271    25.288    11.358
+                                    4.156     7.257    38.491     4.271    25.287    11.358
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   6.180E+01
@@ -552,7 +552,7 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.658     0.000     0.000     0.003     0.000     5.610     0.045     0.281
+                                    5.659     0.000     0.000     0.003     0.000     5.611     0.045     0.281
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
@@ -567,10 +567,10 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.751     4.468    35.756     1.929    25.628     7.837
+                                    0.751     4.468    35.757     1.929    25.629     7.837
 
    BALANCE                      % ERROR IN   INCHES
-                                  0.000   5.024E+01
+                                  0.000   5.025E+01
 
  *** SEDMNT ***
 
@@ -702,10 +702,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.164E-11 0.587E-12 0.223E-11
+     CONC. IN SUSPENSION (MG/L)            0.00     0.164E-11 0.586E-12 0.223E-11
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.697E-15 6.061E-16 2.303E-15
+              SUSPENSION                  0.000E+00 1.695E-15 6.053E-16 2.300E-15
               BED                         2.453E+04 5.689E+03 7.585E+03 3.781E+04
               TOTAL                       2.453E+04 5.689E+03 7.585E+03 3.781E+04
 
@@ -752,10 +752,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.104E-12 0.371E-13 0.141E-12
+     CONC. IN SUSPENSION (MG/L)            0.00     0.104E-12 0.370E-13 0.141E-12
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.118E-16 3.991E-17 1.517E-16
+              SUSPENSION                  0.000E+00 1.115E-16 3.982E-17 1.513E-16
               BED                         2.501E+04 5.689E+03 7.585E+03 3.828E+04
               TOTAL                       2.501E+04 5.689E+03 7.585E+03 3.828E+04
 
@@ -764,7 +764,7 @@
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
      TOTAL INFLOWS                        1.617E+03 2.264E+04 8.086E+03 3.235E+04
-     DEPOSITION/SCOUR                     4.721E+02 0.000E+00 0.000E+00 4.721E+02
+     DEPOSITION/SCOUR                     4.720E+02 0.000E+00 0.000E+00 4.720E+02
      TOTAL OUTFLOWS                       1.145E+03 2.264E+04 8.086E+03 3.187E+04
 
                                FOR SAND, SILT, CLAY
@@ -781,11 +781,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                    0.787 1.065E-02 1.065E-02 1.048E-02      60.9 1.047E-02      75.1      2.34     0.638
+                                    0.788 1.066E-02 1.066E-02 1.049E-02      60.9 1.048E-02      75.1      2.34     0.638
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                    0.111 2.393E-02      1.49
+                                    0.111 2.395E-02      1.50
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -802,7 +802,7 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.277E-07 0.991E-08 0.377E-07
+     CONC. IN SUSPENSION (MG/L)            0.00     0.277E-07 0.990E-08 0.376E-07
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
               SUSPENSION                  0.000E+00 2.969E-11 1.060E-11 4.029E-11
@@ -831,16 +831,16 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                2.697E-02 4.402E-04 4.402E-04 4.331E-04      60.8 4.331E-04      62.3      54.0 2.635E-02
+                                2.697E-02 4.403E-04 4.403E-04 4.332E-04      60.8 4.332E-04      62.3      54.0 2.636E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                7.159E-03 9.932E-05      1.42
+                                7.159E-03 9.933E-05      1.42
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                1.077E+04      114.      138. 1.075E+04
+                                1.077E+04      114.      139. 1.075E+04
 
      POTENTIAL ET (IN)              POTEV
                                      39.1
@@ -852,10 +852,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.167E-11 0.597E-12 0.227E-11
+     CONC. IN SUSPENSION (MG/L)            0.00     0.167E-11 0.596E-12 0.227E-11
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 6.129E-17 2.189E-17 8.317E-17
+              SUSPENSION                  0.000E+00 6.121E-17 2.186E-17 8.308E-17
               BED                         2.058E+04 4.718E+03 6.290E+03 3.158E+04
               TOTAL                       2.058E+04 4.718E+03 6.290E+03 3.158E+04
 
@@ -902,10 +902,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.119E-12 0.425E-13 0.162E-12
+     CONC. IN SUSPENSION (MG/L)            0.00     0.119E-12 0.425E-13 0.161E-12
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 4.554E-18 1.626E-18 6.181E-18
+              SUSPENSION                  0.000E+00 4.544E-18 1.623E-18 6.167E-18
               BED                         2.034E+04 4.718E+03 6.290E+03 3.135E+04
               TOTAL                       2.034E+04 4.718E+03 6.290E+03 3.135E+04
 
@@ -931,11 +931,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                2.793E-02 4.559E-04 4.559E-04 4.486E-04      60.8 4.485E-04      62.3      54.0 2.729E-02
+                                2.795E-02 4.563E-04 4.563E-04 4.489E-04      60.8 4.489E-04      62.3      54.0 2.731E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                7.285E-03 1.029E-04      1.47
+                                7.288E-03 1.029E-04      1.47
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -1455,7 +1455,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   29.715     3.095     2.752     4.174    10.021     8.225    18.507     0.000     0.000     0.000     0.000
+                                   29.715     3.095     2.752     4.175    10.021     8.226    18.508     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -1464,7 +1464,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    2.753     7.923    31.407     4.264    21.962     5.483
+                                    2.753     7.923    31.408     4.264    21.963     5.484
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.396E+01
@@ -1488,22 +1488,22 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.958     0.000     0.000     0.001     0.000     5.869     0.087     0.204
+                                    5.958     0.000     0.000     0.001     0.000     5.869     0.088     0.204
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   40.674     9.854     4.031     4.648    18.533     9.439    18.694     0.000     0.000     0.000     0.000
+                                   40.674     9.854     4.031     4.648    18.533     9.438    18.695     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   46.925     3.894     4.555    21.160     0.000     1.642    31.251
+                                   46.925     3.894     4.555    21.161     0.000     1.642    31.252
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    4.032     9.680    31.909     5.125    21.304     6.292
+                                    4.032     9.680    31.910     5.125    21.305     6.292
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   6.518E+01
@@ -1533,7 +1533,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   16.562     0.965     0.945     2.303     4.213     5.113    20.406     0.000     0.000     0.000     0.000
+                                   16.562     0.965     0.945     2.303     4.213     5.113    20.407     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -1542,7 +1542,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.946     3.879    28.517     1.864    21.859     3.409
+                                    0.946     3.879    28.518     1.864    21.859     3.409
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.293E+01
@@ -1572,7 +1572,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   43.470     6.285     4.485     5.598    16.368    11.344    16.457     0.000     0.000     0.000     0.000
+                                   43.470     6.285     4.485     5.598    16.368    11.345    16.458     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -1581,7 +1581,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    4.486    11.022    33.977     5.403    20.473     7.563
+                                    4.486    11.023    33.977     5.403    20.473     7.563
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   6.542E+01
@@ -1611,16 +1611,16 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   29.715     1.441     2.924     8.161    12.526     5.815    24.202     0.000     0.000     0.000     0.000
+                                   29.715     1.441     2.925     8.161    12.527     5.815    24.202     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   47.898     3.234     4.377    25.143     0.000     2.633    35.387
+                                   47.898     3.234     4.377    25.143     0.000     2.633    35.388
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    2.925     9.341    36.976     4.964    25.326    10.799
+                                    2.925     9.341    36.977     4.964    25.326    10.800
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.958E+01
@@ -1644,22 +1644,22 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    6.077     0.000     0.000     0.003     0.000     6.019     0.056     0.422
+                                    6.078     0.000     0.000     0.003     0.000     6.019     0.056     0.422
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   40.674     6.830     5.146     9.470    21.446     6.816    24.447     0.000     0.000     0.000     0.000
+                                   40.674     6.830     5.146     9.471    21.446     6.816    24.448     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   46.925     4.164     5.569    23.712     0.000     3.183    36.629
+                                   46.925     4.164     5.569    23.713     0.000     3.183    36.629
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    5.146    11.922    37.059     6.354    23.938    12.658
+                                    5.146    11.922    37.060     6.354    23.939    12.659
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   7.097E+01
@@ -1689,7 +1689,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   16.562     0.347     0.979     4.923     6.249     3.896    26.685     0.000     0.000     0.000     0.000
+                                   16.562     0.347     0.979     4.923     6.250     3.896    26.686     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -1698,10 +1698,10 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.980     4.597    34.642     2.074    25.584     7.236
+                                    0.980     4.597    34.643     2.074    25.584     7.236
 
    BALANCE                      % ERROR IN   INCHES
-                                  0.000   4.932E+01
+                                  0.000   4.933E+01
 
  *** SEDMNT ***
 
@@ -1713,7 +1713,7 @@
    FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
-                                          7.246E-02            0.00     7.246E-02            1.07      1.83    
+                                          7.248E-02            0.00     7.248E-02            1.07      1.83    
 1
 
  PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2005/ 9
@@ -1728,7 +1728,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   43.470     3.247     5.327    11.175    19.749     7.889    21.521     0.000     0.000     0.000     0.000
+                                   43.470     3.248     5.327    11.175    19.750     7.889    21.522     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -1881,7 +1881,7 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                    0.846 1.145E-02 1.145E-02 1.126E-02      60.9 1.126E-02      75.1      2.34     0.686
+                                    0.846 1.145E-02 1.145E-02 1.126E-02      60.9 1.126E-02      75.1      2.34     0.685
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
@@ -1902,10 +1902,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.458E-13 0.164E-13 0.621E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.458E-13 0.163E-13 0.621E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 5.265E-17 1.880E-17 7.145E-17
+              SUSPENSION                  0.000E+00 5.264E-17 1.880E-17 7.144E-17
               BED                         2.513E+04 5.689E+03 7.585E+03 3.841E+04
               TOTAL                       2.513E+04 5.689E+03 7.585E+03 3.841E+04
 
@@ -1921,7 +1921,7 @@
 
    BALANCE                      % ERROR IN     TONS
                                   0.000   2.567E+04
-                                  0.000   1.490E+04
+                                  0.000   1.489E+04
                                   0.000   1.087E+04
 1
 
@@ -1931,11 +1931,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                    0.867 1.173E-02 1.173E-02 1.154E-02      60.9 1.154E-02      75.1      2.34     0.703
+                                    0.868 1.174E-02 1.174E-02 1.155E-02      60.9 1.155E-02      75.1      2.34     0.703
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                    0.117 2.636E-02      1.65
+                                    0.117 2.638E-02      1.65
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -1952,10 +1952,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.655E-12 0.234E-12 0.888E-12
+     CONC. IN SUSPENSION (MG/L)            0.00     0.656E-12 0.234E-12 0.890E-12
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 7.716E-16 2.756E-16 1.047E-15
+              SUSPENSION                  0.000E+00 7.736E-16 2.763E-16 1.050E-15
               BED                         2.563E+04 5.689E+03 7.585E+03 3.890E+04
               TOTAL                       2.563E+04 5.689E+03 7.585E+03 3.890E+04
 
@@ -2013,9 +2013,9 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        1.132E+02 1.584E+03 5.658E+02 2.263E+03
-     DEPOSITION/SCOUR                     4.376E+00 0.000E+00 0.000E+00 4.376E+00
-     TOTAL OUTFLOWS                       1.088E+02 1.584E+03 5.658E+02 2.259E+03
+     TOTAL INFLOWS                        1.132E+02 1.584E+03 5.659E+02 2.264E+03
+     DEPOSITION/SCOUR                     4.385E+00 0.000E+00 0.000E+00 4.385E+00
+     TOTAL OUTFLOWS                       1.088E+02 1.584E+03 5.659E+02 2.259E+03
 
                                FOR SAND, SILT, CLAY
 
@@ -2055,7 +2055,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.560E-10 0.200E-10 0.759E-10
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 6.758E-14 2.414E-14 9.172E-14
+              SUSPENSION                  0.000E+00 6.758E-14 2.414E-14 9.171E-14
               BED                         2.581E+04 5.689E+03 7.585E+03 3.908E+04
               TOTAL                       2.581E+04 5.689E+03 7.585E+03 3.908E+04
 
@@ -2081,7 +2081,7 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                3.006E-02 4.908E-04 4.908E-04 4.829E-04      60.8 4.829E-04      62.3      54.0 2.938E-02
+                                3.006E-02 4.908E-04 4.908E-04 4.829E-04      60.8 4.828E-04      62.3      54.0 2.938E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
@@ -2105,7 +2105,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.505E-13 0.180E-13 0.685E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 2.063E-18 7.367E-19 2.799E-18
+              SUSPENSION                  0.000E+00 2.062E-18 7.365E-19 2.799E-18
               BED                         2.062E+04 4.718E+03 6.290E+03 3.162E+04
               TOTAL                       2.062E+04 4.718E+03 6.290E+03 3.162E+04
 
@@ -2131,11 +2131,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                3.079E-02 5.026E-04 5.026E-04 4.945E-04      60.8 4.945E-04      62.3      54.0 3.009E-02
+                                3.081E-02 5.030E-04 5.030E-04 4.948E-04      60.8 4.948E-04      62.3      54.0 3.011E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                7.649E-03 1.134E-04      1.62
+                                7.652E-03 1.135E-04      1.63
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -2152,10 +2152,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.659E-12 0.236E-12 0.895E-12
+     CONC. IN SUSPENSION (MG/L)            0.00     0.661E-12 0.236E-12 0.898E-12
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 2.760E-17 9.857E-18 3.746E-17
+              SUSPENSION                  0.000E+00 2.770E-17 9.893E-18 3.760E-17
               BED                         1.977E+04 4.718E+03 6.290E+03 3.078E+04
               TOTAL                       1.977E+04 4.718E+03 6.290E+03 3.078E+04
 
@@ -2190,7 +2190,7 @@
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                5.123E+03      86.0      153. 5.055E+03
+                                5.123E+03      86.0      153. 5.056E+03
 
      POTENTIAL ET (IN)              POTEV
                                      49.8
@@ -2213,9 +2213,9 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        1.088E+02 1.584E+03 5.658E+02 2.259E+03
+     TOTAL INFLOWS                        1.088E+02 1.584E+03 5.659E+02 2.259E+03
      DEPOSITION/SCOUR                     5.322E+01 0.000E+00 0.000E+00 5.322E+01
-     TOTAL OUTFLOWS                       5.557E+01 1.584E+03 5.658E+02 2.206E+03
+     TOTAL OUTFLOWS                       5.557E+01 1.584E+03 5.659E+02 2.206E+03
 
                                FOR SAND, SILT, CLAY
 
@@ -2255,7 +2255,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.573E-10 0.205E-10 0.778E-10
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 2.458E-15 8.777E-16 3.335E-15
+              SUSPENSION                  0.000E+00 2.457E-15 8.777E-16 3.335E-15
               BED                         2.012E+04 4.718E+03 6.290E+03 3.113E+04
               TOTAL                       2.012E+04 4.718E+03 6.290E+03 3.113E+04
 
@@ -2632,22 +2632,22 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.595     0.000     0.000     0.001     0.000     5.523     0.072     0.177
+                                    5.596     0.000     0.000     0.001     0.000     5.523     0.072     0.177
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   39.453     6.537     4.700     5.317    16.554    10.586    17.028     0.000     0.000     0.000     0.000
+                                   39.453     6.537     4.700     5.317    16.554    10.586    17.029     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   45.440     3.920     2.804    21.411     0.000     1.756    29.890
+                                   45.440     3.920     2.804    21.412     0.000     1.756    29.891
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    4.700     8.254    33.070     5.457    20.883     7.058
+                                    4.700     8.254    33.070     5.457    20.884     7.058
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   6.263E+01
@@ -2671,22 +2671,22 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.435     0.000     0.000     0.001     0.000     5.363     0.070     0.117
+                                    5.435     0.000     0.000     0.001     0.000     5.364     0.070     0.117
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   18.375     0.373     0.700     2.278     3.351     4.896    17.407     0.000     0.000     0.000     0.000
+                                   18.375     0.373     0.700     2.278     3.351     4.895    17.407     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   48.280     2.793     2.337    21.578     0.000     0.988    27.696
+                                   48.280     2.793     2.337    21.579     0.000     0.988    27.696
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.700     4.157    27.759     1.820    21.419     3.264
+                                    0.700     4.157    27.759     1.820    21.420     3.264
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.138E+01
@@ -2701,7 +2701,7 @@
    FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
-                                          5.713E-02            0.00     5.713E-02           0.593      1.82    
+                                          5.714E-02            0.00     5.714E-02           0.593      1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 104                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2008/ 9
@@ -2716,16 +2716,16 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   20.039     1.951     1.637     2.823     6.411     5.957    20.555     0.000     0.000     0.000     0.000
+                                   20.039     1.952     1.637     2.823     6.412     5.957    20.555     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   49.791     1.650     1.819    23.598     0.000     1.141    28.209
+                                   49.791     1.650     1.819    23.599     0.000     1.141    28.209
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.637     3.854    31.501     2.036    23.608     3.971
+                                    1.637     3.854    31.501     2.036    23.608     3.972
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.603E+01
@@ -2755,7 +2755,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   39.453     3.892     5.715    10.665    20.271     7.377    22.267     0.000     0.000     0.000     0.000
+                                   39.453     3.892     5.715    10.665    20.271     7.378    22.268     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -2764,7 +2764,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    5.715    10.062    37.925     6.680    23.527    13.701
+                                    5.715    10.062    37.926     6.680    23.527    13.702
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   6.804E+01
@@ -2799,11 +2799,11 @@
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   48.280     3.084     2.814    25.029     0.000     1.843    32.770
+                                   48.280     3.084     2.814    25.029     0.000     1.843    32.771
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.638     4.553    32.760     1.739    24.748     6.338
+                                    0.638     4.554    32.760     1.739    24.748     6.339
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.673E+01
@@ -3006,11 +3006,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                    0.720 9.744E-03 9.744E-03 9.585E-03      60.9 9.582E-03      75.1      2.34     0.583
+                                    0.720 9.747E-03 9.747E-03 9.587E-03      60.9 9.584E-03      75.1      2.34     0.584
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                    0.106 2.189E-02      1.37
+                                    0.106 2.190E-02      1.37
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -3021,16 +3021,16 @@
                                      48.3
 
    BALANCE                      % ERROR IN    AC-FT
-                                  0.000   5.151E+03
+                                  0.000   5.150E+03
 
  *** SEDTRN ***
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.114E-11 0.409E-12 0.155E-11
+     CONC. IN SUSPENSION (MG/L)            0.00     0.114E-11 0.408E-12 0.155E-11
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.120E-15 4.000E-16 1.520E-15
+              SUSPENSION                  0.000E+00 1.119E-15 3.998E-16 1.519E-15
               BED                         2.602E+04 5.689E+03 7.585E+03 3.929E+04
               TOTAL                       2.602E+04 5.689E+03 7.585E+03 3.929E+04
 
@@ -3038,9 +3038,9 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        3.305E+01 4.627E+02 1.653E+02 6.610E+02
+     TOTAL INFLOWS                        3.305E+01 4.627E+02 1.653E+02 6.611E+02
      DEPOSITION/SCOUR                    -2.852E+01 0.000E+00 0.000E+00-2.852E+01
-     TOTAL OUTFLOWS                       6.157E+01 4.627E+02 1.653E+02 6.895E+02
+     TOTAL OUTFLOWS                       6.157E+01 4.627E+02 1.653E+02 6.896E+02
 
                                FOR SAND, SILT, CLAY
 
@@ -3065,7 +3065,7 @@
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                8.443E+03      130.      301. 8.272E+03
+                                8.444E+03      130.      301. 8.273E+03
 
      POTENTIAL ET (IN)              POTEV
                                      49.8
@@ -3077,10 +3077,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.122E-13 0.394E-14 0.162E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.123E-13 0.394E-14 0.162E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.279E-17 4.108E-18 1.689E-17
+              SUSPENSION                  0.000E+00 1.280E-17 4.113E-18 1.691E-17
               BED                         2.604E+04 5.689E+03 7.585E+03 3.931E+04
               TOTAL                       2.604E+04 5.689E+03 7.585E+03 3.931E+04
 
@@ -3088,15 +3088,15 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        2.872E+02 4.020E+03 1.436E+03 5.743E+03
-     DEPOSITION/SCOUR                     2.234E+01 0.000E+00 0.000E+00 2.234E+01
-     TOTAL OUTFLOWS                       2.648E+02 4.020E+03 1.436E+03 5.721E+03
+     TOTAL INFLOWS                        2.872E+02 4.021E+03 1.436E+03 5.745E+03
+     DEPOSITION/SCOUR                     2.237E+01 0.000E+00 0.000E+00 2.237E+01
+     TOTAL OUTFLOWS                       2.649E+02 4.021E+03 1.436E+03 5.722E+03
 
                                FOR SAND, SILT, CLAY
 
    BALANCE                      % ERROR IN     TONS
                                   0.000   2.630E+04
-                                  0.000   9.709E+03
+                                  0.000   9.710E+03
                                   0.000   9.021E+03
 1
 
@@ -3139,7 +3139,7 @@
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
      TOTAL INFLOWS                        1.354E+03 2.233E+04 7.975E+03 3.166E+04
-     DEPOSITION/SCOUR                     1.059E+02 0.000E+00 0.000E+00 1.059E+02
+     DEPOSITION/SCOUR                     1.058E+02 0.000E+00 0.000E+00 1.058E+02
      TOTAL OUTFLOWS                       1.248E+03 2.233E+04 7.975E+03 3.155E+04
 
                                FOR SAND, SILT, CLAY
@@ -3156,11 +3156,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                2.555E-02 4.172E-04 4.172E-04 4.104E-04      60.8 4.104E-04      62.3      54.0 2.497E-02
+                                2.556E-02 4.173E-04 4.173E-04 4.105E-04      60.8 4.105E-04      62.3      54.0 2.498E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                6.969E-03 9.411E-05      1.35
+                                6.970E-03 9.414E-05      1.35
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -3180,7 +3180,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.116E-11 0.415E-12 0.158E-11
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 4.036E-17 1.442E-17 5.478E-17
+              SUSPENSION                  0.000E+00 4.035E-17 1.441E-17 5.475E-17
               BED                         2.028E+04 4.718E+03 6.290E+03 3.129E+04
               TOTAL                       2.028E+04 4.718E+03 6.290E+03 3.129E+04
 
@@ -3188,7 +3188,7 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        6.157E+01 4.627E+02 1.653E+02 6.895E+02
+     TOTAL INFLOWS                        6.157E+01 4.627E+02 1.653E+02 6.896E+02
      DEPOSITION/SCOUR                     5.267E+01 0.000E+00 0.000E+00 5.267E+01
      TOTAL OUTFLOWS                       8.904E+00 4.627E+02 1.653E+02 6.369E+02
 
@@ -3215,13 +3215,13 @@
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                8.272E+03      104.      155. 8.221E+03
+                                8.273E+03      104.      155. 8.221E+03
 
      POTENTIAL ET (IN)              POTEV
                                      49.8
 
    BALANCE                      % ERROR IN    AC-FT
-                                  0.000   8.376E+03
+                                  0.000   8.377E+03
 
  *** SEDTRN ***
 
@@ -3230,7 +3230,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.123E-13 0.387E-14 0.162E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 4.571E-19 1.434E-19 6.004E-19
+              SUSPENSION                  0.000E+00 4.576E-19 1.436E-19 6.012E-19
               BED                         2.037E+04 4.718E+03 6.290E+03 3.138E+04
               TOTAL                       2.037E+04 4.718E+03 6.290E+03 3.138E+04
 
@@ -3238,15 +3238,15 @@
 
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
-     TOTAL INFLOWS                        2.648E+02 4.020E+03 1.436E+03 5.721E+03
-     DEPOSITION/SCOUR                     9.108E+01 0.000E+00 0.000E+00 9.108E+01
-     TOTAL OUTFLOWS                       1.737E+02 4.020E+03 1.436E+03 5.630E+03
+     TOTAL INFLOWS                        2.649E+02 4.021E+03 1.436E+03 5.722E+03
+     DEPOSITION/SCOUR                     9.109E+01 0.000E+00 0.000E+00 9.109E+01
+     TOTAL OUTFLOWS                       1.738E+02 4.021E+03 1.436E+03 5.631E+03
 
                                FOR SAND, SILT, CLAY
 
    BALANCE                      % ERROR IN     TONS
                                   0.000   2.055E+04
-                                  0.000   8.738E+03
+                                  0.000   8.739E+03
                                   0.000   7.726E+03
 1
 
@@ -3724,18 +3724,18 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.189     0.000     0.000     0.001     0.000     5.123     0.065     0.119
+                                    5.189     0.000     0.000     0.001     0.000     5.124     0.065     0.119
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   22.694     1.351     1.623     3.244     6.218     6.634    18.112     0.000     0.000     0.000     0.000
+                                   22.694     1.351     1.624     3.244     6.218     6.635    18.112     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   47.831     2.559     2.200    22.266     0.000     1.191    28.215
+                                   47.831     2.559     2.200    22.266     0.000     1.191    28.216
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
@@ -3769,12 +3769,12 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   29.900     2.688     2.114     3.384     8.186     7.206    14.806     0.000     0.000     0.000     0.000
+                                   29.900     2.688     2.114     3.384     8.187     7.207    14.806     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   44.560     3.674     3.576    20.258     0.000     1.408    28.917
+                                   44.560     3.674     3.576    20.259     0.000     1.408    28.917
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
@@ -3808,7 +3808,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   38.000     6.350     4.108     4.740    15.198     9.280    15.599     0.000     0.000     0.000     0.000
+                                   38.000     6.350     4.108     4.741    15.199     9.280    15.599     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -3817,10 +3817,10 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    4.109     6.822    32.807     3.829    21.170     6.186
+                                    4.109     6.822    32.808     3.829    21.170     6.187
 
    BALANCE                      % ERROR IN   INCHES
-                                  0.000   5.918E+01
+                                  0.000   5.919E+01
 
  *** SEDMNT ***
 
@@ -3847,7 +3847,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   25.129     2.342     1.446     2.547     6.336     5.802    16.928     0.000     0.000     0.000     0.000
+                                   25.129     2.342     1.446     2.547     6.336     5.802    16.929     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -3856,7 +3856,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.446     6.198    28.876     2.760    21.966     3.868
+                                    1.447     6.198    28.877     2.760    21.967     3.868
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.783E+01
@@ -3886,7 +3886,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   22.694     0.619     1.737     6.467     8.823     4.674    23.685     0.000     0.000     0.000     0.000
+                                   22.694     0.619     1.737     6.467     8.823     4.674    23.686     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -3895,7 +3895,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.737     5.013    36.351     2.112    25.109     8.680
+                                    1.737     5.013    36.351     2.112    25.110     8.680
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.177E+01
@@ -3925,7 +3925,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   29.900     1.263     2.409     6.543    10.215     4.837    19.361     0.000     0.000     0.000     0.000
+                                   29.900     1.263     2.409     6.544    10.215     4.837    19.362     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -3949,7 +3949,7 @@
    FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
-                                          0.432                0.00     0.432                1.82      1.82    
+                                          0.433                0.00     0.433                1.82      1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2011/ 9
@@ -3964,7 +3964,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   38.000     3.990     4.862     9.327    18.178     6.355    20.398     0.000     0.000     0.000     0.000
+                                   38.000     3.990     4.862     9.327    18.178     6.356    20.399     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -3997,22 +3997,22 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.402     0.000     0.000     0.002     0.000     5.353     0.046     0.273
+                                    5.402     0.000     0.000     0.002     0.000     5.354     0.046     0.274
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   25.129     1.375     1.688     5.389     8.452     4.208    22.136     0.000     0.000     0.000     0.000
+                                   25.129     1.375     1.688     5.389     8.453     4.208    22.137     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   48.730     3.524     4.202    24.868     0.000     2.429    35.023
+                                   48.730     3.524     4.203    24.868     0.000     2.429    35.024
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.689     7.282    33.396     3.081    24.454     7.815
+                                    1.689     7.282    33.397     3.081    24.454     7.815
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.309E+01
@@ -4156,11 +4156,11 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                    0.696 9.420E-03 9.420E-03 9.266E-03      60.9 9.264E-03      75.1      2.34     0.564
+                                    0.696 9.420E-03 9.420E-03 9.267E-03      60.9 9.264E-03      75.1      2.34     0.564
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                    0.105 2.116E-02      1.32
+                                    0.105 2.117E-02      1.32
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -4180,7 +4180,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.116E-13 0.372E-14 0.153E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.095E-17 3.521E-18 1.447E-17
+              SUSPENSION                  0.000E+00 1.095E-17 3.522E-18 1.447E-17
               BED                         2.594E+04 5.689E+03 7.585E+03 3.921E+04
               TOTAL                       2.594E+04 5.689E+03 7.585E+03 3.921E+04
 
@@ -4197,7 +4197,7 @@
    BALANCE                      % ERROR IN     TONS
                                   0.000   2.619E+04
                                   0.000   7.748E+03
-                                  0.000   8.320E+03
+                                  0.000   8.321E+03
 1
 
  REACH/MIXED-RESERVOIR NO.   1                          San Francisquito Cre                REPORT FOR PRINTOUT YEAR ENDING 2010/ 9
@@ -4227,10 +4227,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.323E-13 0.115E-13 0.439E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.324E-13 0.116E-13 0.439E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 3.412E-17 1.219E-17 4.631E-17
+              SUSPENSION                  0.000E+00 3.418E-17 1.221E-17 4.639E-17
               BED                         2.594E+04 5.689E+03 7.585E+03 3.921E+04
               TOTAL                       2.594E+04 5.689E+03 7.585E+03 3.921E+04
 
@@ -4239,7 +4239,7 @@
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
      TOTAL INFLOWS                        4.061E+02 5.686E+03 2.031E+03 8.123E+03
-     DEPOSITION/SCOUR                    -1.497E+00 0.000E+00 0.000E+00-1.497E+00
+     DEPOSITION/SCOUR                    -1.491E+00 0.000E+00 0.000E+00-1.491E+00
      TOTAL OUTFLOWS                       4.076E+02 5.686E+03 2.031E+03 8.124E+03
 
                                FOR SAND, SILT, CLAY
@@ -4277,10 +4277,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.216E-13 0.772E-14 0.293E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.216E-13 0.773E-14 0.294E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 2.447E-17 8.738E-18 3.321E-17
+              SUSPENSION                  0.000E+00 2.449E-17 8.746E-18 3.324E-17
               BED                         2.661E+04 5.689E+03 7.585E+03 3.988E+04
               TOTAL                       2.661E+04 5.689E+03 7.585E+03 3.988E+04
 
@@ -4310,12 +4310,12 @@
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                    0.109 2.292E-02      1.43
+                                    0.109 2.293E-02      1.43
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                9.292E+03      164.      300. 9.156E+03
+                                9.292E+03      164.      300. 9.157E+03
 
      POTENTIAL ET (IN)              POTEV
                                      48.7
@@ -4327,10 +4327,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.547E-13 0.195E-13 0.743E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.543E-13 0.194E-13 0.737E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 5.610E-17 2.003E-17 7.613E-17
+              SUSPENSION                  0.000E+00 5.563E-17 1.986E-17 7.550E-17
               BED                         2.699E+04 5.689E+03 7.585E+03 4.026E+04
               TOTAL                       2.699E+04 5.689E+03 7.585E+03 4.026E+04
 
@@ -4380,7 +4380,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.117E-13 0.366E-14 0.153E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 3.914E-19 1.229E-19 5.143E-19
+              SUSPENSION                  0.000E+00 3.915E-19 1.229E-19 5.144E-19
               BED                         2.054E+04 4.718E+03 6.290E+03 3.155E+04
               TOTAL                       2.054E+04 4.718E+03 6.290E+03 3.155E+04
 
@@ -4390,14 +4390,14 @@
 
      TOTAL INFLOWS                        2.493E+02 2.059E+03 7.353E+02 3.043E+03
      DEPOSITION/SCOUR                     1.664E+02 0.000E+00 0.000E+00 1.664E+02
-     TOTAL OUTFLOWS                       8.285E+01 2.059E+03 7.353E+02 2.877E+03
+     TOTAL OUTFLOWS                       8.286E+01 2.059E+03 7.353E+02 2.877E+03
 
                                FOR SAND, SILT, CLAY
 
    BALANCE                      % ERROR IN     TONS
                                   0.000   2.062E+04
                                   0.000   6.776E+03
-                                  0.000   7.025E+03
+                                  0.000   7.026E+03
 1
 
  REACH/MIXED-RESERVOIR NO.   2                          San Francisquito Cre                REPORT FOR PRINTOUT YEAR ENDING 2010/ 9
@@ -4410,7 +4410,7 @@
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
-                                7.239E-03 1.016E-04      1.45
+                                7.240E-03 1.016E-04      1.45
 
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
@@ -4430,7 +4430,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.359E-13 0.128E-13 0.487E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.344E-18 4.800E-19 1.824E-18
+              SUSPENSION                  0.000E+00 1.346E-18 4.809E-19 1.827E-18
               BED                         2.068E+04 4.718E+03 6.290E+03 3.169E+04
               TOTAL                       2.068E+04 4.718E+03 6.290E+03 3.169E+04
 
@@ -4506,7 +4506,7 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                2.676E-02 4.369E-04 4.369E-04 4.299E-04      60.8 4.298E-04      62.3      54.0 2.615E-02
+                                2.676E-02 4.369E-04 4.369E-04 4.299E-04      60.8 4.299E-04      62.3      54.0 2.616E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
@@ -4515,7 +4515,7 @@
    FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
      ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
        VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
-                                9.156E+03      131.      169. 9.118E+03
+                                9.157E+03      131.      169. 9.118E+03
 
      POTENTIAL ET (IN)              POTEV
                                      48.7
@@ -4527,10 +4527,10 @@
 
    STATE VARIABLES
                                                SAND      SILT      CLAY     TOTAL
-     CONC. IN SUSPENSION (MG/L)            0.00     0.634E-13 0.226E-13 0.861E-13
+     CONC. IN SUSPENSION (MG/L)            0.00     0.629E-13 0.225E-13 0.853E-13
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 2.308E-18 8.240E-19 3.132E-18
+              SUSPENSION                  0.000E+00 2.288E-18 8.169E-19 3.105E-18
               BED                         2.031E+04 4.718E+03 6.290E+03 3.132E+04
               TOTAL                       2.031E+04 4.718E+03 6.290E+03 3.132E+04
 
@@ -5063,13 +5063,13 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.965     0.000     0.000     0.099     0.000     5.778     0.088     0.148
+                                    5.966     0.000     0.000     0.099     0.000     5.778     0.088     0.148
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   14.410     0.086     0.258     1.697     2.041     4.016    20.534     0.000     0.000     0.000     0.000
+                                   14.410     0.086     0.258     1.697     2.041     4.016    20.535     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -5078,7 +5078,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.258     3.175    29.292     0.929    23.528     2.677
+                                    0.258     3.175    29.293     0.929    23.528     2.677
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.074E+01
@@ -5093,7 +5093,7 @@
    FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
-                                          4.273E-03            0.00     4.273E-03           0.445      1.82    
+                                          4.274E-03            0.00     4.274E-03           0.445      1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 104                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2015/ 9
@@ -5108,7 +5108,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   27.031     4.996     3.181     3.459    11.636     6.649    18.566     0.000     0.000     0.000     0.000
+                                   27.031     4.996     3.181     3.459    11.636     6.649    18.567     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -5117,7 +5117,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    3.182     5.319    30.345     3.243    22.507     4.432
+                                    3.182     5.319    30.346     3.243    22.507     4.432
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.156E+01
@@ -5147,7 +5147,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   31.640     4.058     3.259     4.084    11.401     8.114    16.748     0.000     0.000     0.000     0.000
+                                   31.640     4.059     3.259     4.084    11.401     8.114    16.748     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -5156,7 +5156,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    3.259     6.343    32.003     3.449    21.929     5.410
+                                    3.259     6.343    32.004     3.449    21.929     5.410
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.377E+01
@@ -5186,16 +5186,16 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   20.956     0.755     1.208     5.167     7.129     3.854    23.772     0.000     0.000     0.000     0.000
+                                   20.956     0.755     1.208     5.166     7.128     3.853    23.772     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
                                        IN        IN        IN        IN        IN        IN        IN
-                                   49.680     3.022     2.440    25.911     0.000     1.981    33.354
+                                   49.680     3.022     2.440    25.912     0.000     1.981    33.355
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    1.208     4.933    34.810     2.436    26.236     7.157
+                                    1.208     4.933    34.810     2.436    26.236     7.156
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.013E+01
@@ -5219,13 +5219,13 @@
 
    STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
                                        IN        IN        IN        IN        IN        IN        IN        IN
-                                    5.870     0.000     0.000     0.106     0.000     5.709     0.056     0.261
+                                    5.871     0.000     0.000     0.106     0.000     5.709     0.056     0.261
 
    FLUXES
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   14.410     0.019     0.212     3.905     4.136     3.211    26.852     0.000     0.000     0.000     0.000
+                                   14.410     0.019     0.212     3.906     4.137     3.211    26.853     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -5234,7 +5234,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    0.212     3.764    35.002     0.759    26.586     5.964
+                                    0.212     3.764    35.003     0.759    26.587     5.964
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   4.706E+01
@@ -5249,7 +5249,7 @@
    FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
-                                          3.418E-04            0.00     3.418E-04           0.747      1.82    
+                                          3.417E-04            0.00     3.417E-04           0.747      1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2015/ 9
@@ -5303,7 +5303,7 @@
      EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
                                      SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
                                        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
-                                   31.640     2.150     3.830     8.073    14.053     5.572    21.901     0.000     0.000     0.000     0.000
+                                   31.640     2.150     3.830     8.073    14.053     5.572    21.902     0.000     0.000     0.000     0.000
 
      EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
                                       PET      CEPE      UZET      LZET     AGWET     BASET      TAET
@@ -5312,7 +5312,7 @@
 
      INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
                                        IN        IN        IN        IN        IN        IN
-                                    3.830     7.518    37.171     4.045    25.296    10.349
+                                    3.830     7.518    37.172     4.045    25.296    10.349
 
    BALANCE                      % ERROR IN   INCHES
                                   0.000   5.888E+01
@@ -5689,8 +5689,8 @@
    FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
 
      TOTAL INFLOWS                        2.120E+02 3.886E+03 1.388E+03 5.486E+03
-     DEPOSITION/SCOUR                     5.428E+01 0.000E+00 0.000E+00 5.428E+01
-     TOTAL OUTFLOWS                       1.577E+02 3.886E+03 1.388E+03 5.431E+03
+     DEPOSITION/SCOUR                     5.429E+01 0.000E+00 0.000E+00 5.429E+01
+     TOTAL OUTFLOWS                       1.577E+02 3.886E+03 1.388E+03 5.432E+03
 
                                FOR SAND, SILT, CLAY
 
@@ -5706,7 +5706,7 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                3.027E-02 4.942E-04 4.942E-04 4.862E-04      60.8 4.862E-04      62.3      54.0 2.958E-02
+                                3.027E-02 4.943E-04 4.943E-04 4.863E-04      60.8 4.862E-04      62.3      54.0 2.959E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
@@ -5730,7 +5730,7 @@
      CONC. IN SUSPENSION (MG/L)            0.00     0.326E-06 0.116E-06 0.443E-06
 
      STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
-              SUSPENSION                  0.000E+00 1.342E-11 4.793E-12 1.821E-11
+              SUSPENSION                  0.000E+00 1.342E-11 4.794E-12 1.822E-11
               BED                         2.039E+04 4.718E+03 6.290E+03 3.140E+04
               TOTAL                       2.039E+04 4.718E+03 6.290E+03 3.140E+04
 
@@ -5806,7 +5806,7 @@
 
    STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
      ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
-                                2.706E-02 4.418E-04 4.418E-04 4.347E-04      60.8 4.346E-04      62.3      54.0 2.645E-02
+                                2.706E-02 4.418E-04 4.418E-04 4.346E-04      60.8 4.346E-04      62.3      54.0 2.645E-02
 
                                     USTAR       TAU   OUTFLOW
                                      FT/S    LB/FT2     FT3/S
@@ -5848,3 +5848,328 @@
                                   0.000   2.115E+04
                                   0.000   1.558E+04
                                   0.000   1.017E+04
+1
+
+ PERVIOUS LAND SEGMENT NO. 101                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    1.117     0.000     0.000     0.001     0.000     1.116     0.000     0.009
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                   50.545     3.330     6.603     7.462    17.395     5.711
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     4.502     4.495    16.889     0.000     1.105    26.991
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    6.603    11.975    24.135     7.480    17.337     8.567
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.121E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.622               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                           1.29                0.00      1.29               0.175      1.82    
+1
+
+ PERVIOUS LAND SEGMENT NO. 102                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    1.568     0.000     0.000     0.001     0.000     1.567     0.000     0.009
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                   50.545     6.197     5.712     7.591    19.500     5.748
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     3.927     4.532    15.305     0.000     1.032    24.794
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.712    11.579    23.130     7.048    15.807     8.622
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.161E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.592               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                           1.36                0.00      1.36               0.175      1.82    
+1
+
+ PERVIOUS LAND SEGMENT NO. 103                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    2.761     0.000     0.000     0.001     0.000     2.760     0.000     0.009
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                   50.545     6.595     6.169     7.695    20.458     5.839
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     3.579     4.267    14.675     0.000     1.064    23.585
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    6.169    10.723    23.479     6.456    15.337     8.759
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.264E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.945               0.802    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                           2.28                0.00      2.28                2.16      1.82    
+1
+
+ PERVIOUS LAND SEGMENT NO. 104                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.906     0.000     0.000     0.001     0.000     5.822     0.083     0.194
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                   50.545    10.041     7.001     6.470    23.512    12.428    16.725     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     3.577     4.356    21.219     0.000     1.807    30.959
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    7.002    10.285    36.366     5.929    21.582     8.285
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   7.280E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.617               0.651    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                           3.33                0.00      3.33                2.29      1.82    
+1
+
+ PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    6.002     0.000     0.000     0.003     0.000     5.945     0.054     0.393
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                   50.545     5.754     8.604    12.587    26.945     8.516    21.872     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     3.777     5.366    24.072     0.000     3.225    36.440
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    8.604    12.566    41.715     7.199    24.584    15.815
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   7.790E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                           1.00               0.609    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                           3.60                0.00      3.60                3.66      1.82    
+1
+
+ IMPERVIOUS LAND SEGMENT NO. 101                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** IWATER ***
+
+   STATE VARIABLES              RETN STOR SURF STOR
+                                     RETS      SURS
+                                       IN        IN
+                                     0.00      0.00
+
+   FLUXES                        MOISTURE   OUTFLOW EVAP. POT    ACTUAL
+                                     SUPY      SURO       PET     IMPEV
+                                       IN        IN        IN        IN
+                                   50.545    46.984     46.16      3.56
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.055E+01
+
+ *** SOLIDS ***
+
+   STATE VARIABLES                   SOLIDS STORAGE
+                                               SLDS
+                                            TONS/AC
+                                              0.700
+
+   FLUXES                            SOLIDS WASHOFF
+                                              SOSLD
+                                            TONS/AC
+                                              1.291
+1
+
+ REACH/MIXED-RESERVOIR NO.   1                          San Francisquito Cre                REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                    0.837 1.133E-02 1.133E-02 1.115E-02      60.9 1.114E-02      75.1      2.34     0.678
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                    0.115 2.546E-02      1.59
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                4.224E+04      341.      289. 4.229E+04
+
+     POTENTIAL ET (IN)              POTEV
+                                     46.1
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   4.258E+04
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00     0.891E-13 0.318E-13 0.121E-12
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 1.014E-16 3.622E-17 1.376E-16
+              BED                         2.729E+04 5.689E+03 7.585E+03 4.056E+04
+              TOTAL                       2.729E+04 5.689E+03 7.585E+03 4.056E+04
+
+     BED DEPTH (FT)                            2.15
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        2.410E+03 3.375E+04 1.205E+04 4.821E+04
+     DEPOSITION/SCOUR                    -1.320E+02 0.000E+00 0.000E+00-1.320E+02
+     TOTAL OUTFLOWS                       2.542E+03 3.375E+04 1.205E+04 4.834E+04
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.000   2.983E+04
+                                  0.000   3.944E+04
+                                  0.000   1.964E+04
+1
+
+ REACH/MIXED-RESERVOIR NO.   2                          San Francisquito Cre                REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                2.973E-02 4.853E-04 4.853E-04 4.775E-04      60.8 4.774E-04      62.3      54.0 2.905E-02
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                7.516E-03 1.095E-04      1.57
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                4.229E+04      263.      172. 4.238E+04
+
+     POTENTIAL ET (IN)              POTEV
+                                     46.1
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   4.255E+04
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00     0.103E-12 0.367E-13 0.140E-12
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 4.156E-18 1.484E-18 5.641E-18
+              BED                         2.043E+04 4.718E+03 6.290E+03 3.143E+04
+              TOTAL                       2.043E+04 4.718E+03 6.290E+03 3.143E+04
+
+     BED DEPTH (FT)                            2.02
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        2.542E+03 3.375E+04 1.205E+04 4.834E+04
+     DEPOSITION/SCOUR                    -1.017E+00 0.000E+00 0.000E+00-1.017E+00
+     TOTAL OUTFLOWS                       2.544E+03 3.375E+04 1.205E+04 4.834E+04
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.000   2.297E+04
+                                  0.000   3.846E+04
+                                  0.000   1.834E+04

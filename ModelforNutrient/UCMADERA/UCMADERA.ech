@@ -67,9 +67,9 @@
 
  GENERAL RUN INFORMATION:    UCI Created for ABAG for UCMADERA- no deposition/brakepads
 
-   START       1999/01/01 00:00  END    2016/12/31 24:00
+   START       1999/01/01 00:00  END    2017/12/31 24:00
 
- START AND END DATE/TIMES TRANSLATE TO THE FOLLOWING, IN INTERNAL FORMAT:  1998/12/31 24:60    2016/12/31 24:60
+ START AND END DATE/TIMES TRANSLATE TO THE FOLLOWING, IN INTERNAL FORMAT:  1998/12/31 24:60    2017/12/31 24:60
 
  RUN INTERPRETER OUTPUT LEVEL HAS BEEN SET TO:  4
  RUNTIME SPECIAL ACTION OUTPUT LEVEL HAS BEEN SET TO:  0
@@ -229,9 +229,9 @@
 
       TABNO     TABID    TABKST    TABKND
 
-          1         2       418       425
-          2         1       427       434
-          3         3       436       440
+          1         2       419       426
+          2         1       428       435
+          3         3       437       441
  
  FINISHED PROCESSING MASS LINK BLOCK
  ====================================================================================================================================
@@ -1396,19 +1396,20 @@
      EXT SOURCES                                                                     
      <-Volume-> <Member> SsysSgap<--Mult-->Tran <-Target vols> <-Grp> <-Member-> *** 
      <Name>   x <Name> x tem strg<-factor->strg <Name>   x   x        <Name> x x *** 
-     *** Met Seg 044500,PI:PREC=0.94,PI:PETINP=1.06                                  
+     *** Met Seg 044500                                                              
      WDM2   105 HPCP     ENGLZERO      0.94SAME PERLND 101 105 EXTNL  PREC           
      WDM2   201 PEVT     ENGL          1.06SAME PERLND 101 105 EXTNL  PETINP         
-     *** Met Seg 044500,PI:PREC=0.94,PI:PETINP=1.06                                  
+     *** Met Seg 044500                                                              
      WDM2   105 HPCP     ENGLZERO      0.94SAME IMPLND 101     EXTNL  PREC           
      WDM2   201 PEVT     ENGL          1.06SAME IMPLND 101     EXTNL  PETINP         
-     *** Met Seg 044500,PI:PREC=0.94,PI:PETINP=1.06                                  
+     *** Met Seg 044500                                                              
      WDM2   105 HPCP     ENGLZERO      0.94SAME RCHRES   1   2 EXTNL  PREC           
      WDM2   201 PEVT     ENGL          1.06SAME RCHRES   1   2 EXTNL  POTEV          
-     WDM2    21 FLOW     ENGL          1.98DIV  RCHRES   1     INFLOW IVOL           
      *** Urban/Agriculture Irrigation                                                
      WDM2   155 IRRG     ENGL       0.65   DIV  PERLND 104     EXTNL  SURLI          
      WDM2   155 IRRG     ENGL       0.85   DIV  PERLND 105     EXTNL  SURLI          
+     *** 1 cfs of flow added to avoid extreme concentrations during low flow periods 
+     WDM2    21 FLOW     ENGL          1.98DIV  RCHRES   1     INFLOW IVOL           
      END EXT SOURCES                                                                 
  
  USERS CONTROL INPUT IS:

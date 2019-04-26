@@ -18739,6 +18739,45 @@
                                           1.332E-08            0.00     1.332E-08           4.035E-02  1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 101                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.051     0.000     0.000     0.001     0.000     0.050     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.037     0.037     0.024
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   51.373     1.337     0.029     4.554     0.000     0.007     5.927
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.029     4.369     0.000     4.301     0.044
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.040E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          5.456E-14            0.00     5.456E-14           1.043E-02  1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 102                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -18776,6 +18815,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           1.304E-07            0.00     1.304E-07           4.035E-02  1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 102                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.138     0.000     0.000     0.001     0.000     0.137     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.057     0.057     0.037
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   51.373     1.077     0.054     4.982     0.000     0.011     6.124
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.054     4.603     0.000     4.498     0.068
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.356E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.098E-12            0.00     1.098E-12           1.043E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 103                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -18817,6 +18895,45 @@
                                           2.983E-07            0.00     2.983E-07           0.495      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 103                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.328     0.000     0.000     0.001     0.000     0.327     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.085     0.085     0.055
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   51.373     0.956     0.084     5.308     0.000     0.016     6.364
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.084     4.695     0.000     4.539     0.101
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.831E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.897               0.802    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          6.000E-12            0.00     6.000E-12           9.377E-02  1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 104                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -18854,6 +18971,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           5.069E-07            0.00     5.069E-07           0.527      1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 104                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    7.083     0.000     0.000     0.001     0.000     6.960     0.122     0.235
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     1.194     1.195     1.550    21.020     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   51.373     0.923     0.456    22.415     0.000     0.712    24.506
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.455    25.376     0.000    21.932     1.894
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   3.433E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.905               0.651    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.749E-09            0.00     1.749E-09           0.138      1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -18895,6 +19051,45 @@
                                           6.827E-07            0.00     6.827E-07           0.871      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 105                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    7.722     0.000     0.000     0.003     0.000     7.645     0.074     0.350
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     1.875     1.875     1.708    27.488     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   51.373     1.023     0.478    27.512     0.000     1.310    30.324
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.477    31.722     0.000    26.841     3.173
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   4.163E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.931               0.609    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          7.319E-10            0.00     7.319E-10           0.211      1.82    
+1
+
  IMPERVIOUS LAND SEGMENT NO. 101                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** IWATER ***
@@ -18923,6 +19118,36 @@
                                               SOSLD
                                             TONS/AC
                                               0.236
+1
+
+ IMPERVIOUS LAND SEGMENT NO. 101                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** IWATER ***
+
+   STATE VARIABLES              RETN STOR SURF STOR
+                                     RETS      SURS
+                                       IN        IN
+                                     0.00      0.00
+
+   FLUXES                        MOISTURE   OUTFLOW EVAP. POT    ACTUAL
+                                     SUPY      SURO       PET     IMPEV
+                                       IN        IN        IN        IN
+                                    5.735     4.868     51.37      0.87
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.735E+00
+
+ *** SOLIDS ***
+
+   STATE VARIABLES                   SOLIDS STORAGE
+                                               SLDS
+                                            TONS/AC
+                                              0.700
+
+   FLUXES                            SOLIDS WASHOFF
+                                              SOSLD
+                                            TONS/AC
+                                              0.059
 1
 
  REACH/MIXED-RESERVOIR NO.   1                            Coyote Lake                       REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -18975,6 +19200,56 @@
                                   0.000   7.453E+03
 1
 
+ REACH/MIXED-RESERVOIR NO.   1                            Coyote Lake                       REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                    0.151 2.687E-05 2.687E-05 2.687E-05 4.625E+03 2.687E-05 5.606E+03     0.303     0.124
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                7.332E-05 1.042E-08 3.762E-02
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                     432. 2.678E+03      889. 2.222E+03
+
+     POTENTIAL ET (IN)              POTEV
+                                     51.4
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   3.111E+03
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00      0.00      0.00      0.00    
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 0.000E+00 0.000E+00 0.000E+00
+              BED                         2.422E+04 5.588E+03 7.451E+03 3.726E+04
+              TOTAL                       2.422E+04 5.588E+03 7.451E+03 3.726E+04
+
+     BED DEPTH (FT)                            2.02
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        8.137E-02 1.139E+00 4.068E-01 1.627E+00
+     DEPOSITION/SCOUR                     8.137E-02 0.000E+00 0.000E+00 8.137E-02
+     TOTAL OUTFLOWS                       0.000E+00 1.139E+00 4.068E-01 1.546E+00
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.000   2.422E+04
+                                  0.000   5.589E+03
+                                  0.000   7.451E+03
+1
+
  PERVIOUS LAND SEGMENT NO. 201                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19012,6 +19287,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           5.492E-08            0.00     5.492E-08           4.035E-02  1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 201                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.074     0.000     0.000     0.001     0.000     0.073     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.040     0.040     0.025
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.337     0.031     4.633     0.000     0.007     6.009
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.031     4.367     0.000     4.295     0.047
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.147E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.302E-13            0.00     1.302E-13           1.043E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 202                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19053,6 +19367,45 @@
                                           3.369E-07            0.00     3.369E-07           4.035E-02  1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 202                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.187     0.000     0.000     0.001     0.000     0.186     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.062     0.062     0.040
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.087     0.059     5.076     0.000     0.011     6.233
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.059     4.589     0.000     4.476     0.073
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.521E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          2.410E-12            0.00     2.410E-12           1.043E-02  1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 203                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19090,6 +19443,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           3.634E-07            0.00     3.634E-07           0.495      1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 203                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.419     0.000     0.000     0.001     0.000     0.418     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.093     0.093     0.060
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.966     0.093     5.402     0.000     0.017     6.479
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.093     4.676     0.000     4.506     0.111
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   7.051E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.897               0.802    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.457E-11            0.00     1.457E-11           9.377E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 204                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19131,6 +19523,45 @@
                                           1.032E-06            0.00     1.032E-06           0.527      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 204                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    7.714     0.000     0.000     0.002     0.000     7.615     0.097     0.279
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.001     1.430     1.431     1.821    21.020     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.931     0.518    21.740     0.000     0.799    23.987
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.517    25.306     0.000    21.259     2.226
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   3.495E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.905               0.651    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          7.345E-09            0.00     7.345E-09           0.138      1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 205                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19170,6 +19601,45 @@
                                           7.241E-07            0.00     7.241E-07           0.871      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 205                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    8.684     0.000     0.000     0.005     0.000     8.610     0.070     0.451
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     2.382     2.382     2.094    27.488     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.030     0.559    26.325     0.000     1.511    29.425
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.557    31.635     0.000    25.652     3.889
+
+   BALANCE                      % ERROR IN   INCHES
+                                 -0.001   4.259E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.931               0.609    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          4.727E-09            0.00     4.727E-09           0.211      1.82    
+1
+
  IMPERVIOUS LAND SEGMENT NO. 201                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** IWATER ***
@@ -19198,6 +19668,36 @@
                                               SOSLD
                                             TONS/AC
                                               0.233
+1
+
+ IMPERVIOUS LAND SEGMENT NO. 201                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** IWATER ***
+
+   STATE VARIABLES              RETN STOR SURF STOR
+                                     RETS      SURS
+                                       IN        IN
+                                     0.00      0.00
+
+   FLUXES                        MOISTURE   OUTFLOW EVAP. POT    ACTUAL
+                                     SUPY      SURO       PET     IMPEV
+                                       IN        IN        IN        IN
+                                    5.735     4.858     46.16      0.88
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.735E+00
+
+ *** SOLIDS ***
+
+   STATE VARIABLES                   SOLIDS STORAGE
+                                               SLDS
+                                            TONS/AC
+                                              0.700
+
+   FLUXES                            SOLIDS WASHOFF
+                                              SOSLD
+                                            TONS/AC
+                                              0.059
 1
 
  REACH/MIXED-RESERVOIR NO.   2                            Anderson Lake                     REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19250,6 +19750,56 @@
                                   0.000   7.462E+03
 1
 
+ REACH/MIXED-RESERVOIR NO.   2                            Anderson Lake                     REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                    0.313 5.591E-05 5.591E-05 5.591E-05 4.625E+03 5.591E-05 5.606E+03     0.303     0.259
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                1.058E-04 2.168E-08 7.829E-02
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                     536. 2.678E+03      929. 2.285E+03
+
+     POTENTIAL ET (IN)              POTEV
+                                     46.1
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   3.214E+03
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00      0.00      0.00      0.00    
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 0.000E+00 0.000E+00 0.000E+00
+              BED                         2.426E+04 5.588E+03 7.451E+03 3.730E+04
+              TOTAL                       2.426E+04 5.588E+03 7.451E+03 3.730E+04
+
+     BED DEPTH (FT)                            2.02
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        5.714E-01 7.999E+00 2.857E+00 1.143E+01
+     DEPOSITION/SCOUR                     5.714E-01 0.000E+00 0.000E+00 5.714E-01
+     TOTAL OUTFLOWS                       0.000E+00 7.999E+00 2.857E+00 1.086E+01
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.000   2.426E+04
+                                  0.000   5.596E+03
+                                  0.000   7.454E+03
+1
+
  PERVIOUS LAND SEGMENT NO. 301                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19287,6 +19837,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           9.282E-08            0.00     9.282E-08           4.035E-02  1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 301                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.074     0.000     0.000     0.001     0.000     0.073     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.040     0.040     0.025
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.337     0.031     4.634     0.000     0.007     6.009
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.031     4.367     0.000     4.295     0.047
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.148E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.799E-13            0.00     1.799E-13           1.043E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 302                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19328,6 +19917,45 @@
                                           3.369E-07            0.00     3.369E-07           4.035E-02  1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 302                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.187     0.000     0.000     0.001     0.000     0.186     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.062     0.062     0.040
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.087     0.059     5.076     0.000     0.011     6.233
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.059     4.589     0.000     4.476     0.073
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.521E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          2.410E-12            0.00     2.410E-12           1.043E-02  1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 303                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19365,6 +19993,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           3.634E-07            0.00     3.634E-07           0.495      1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 303                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.419     0.000     0.000     0.001     0.000     0.418     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.093     0.093     0.060
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.966     0.093     5.402     0.000     0.017     6.479
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.093     4.676     0.000     4.506     0.111
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   7.051E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.897               0.802    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.457E-11            0.00     1.457E-11           9.377E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 304                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19406,6 +20073,45 @@
                                           1.032E-06            0.00     1.032E-06           0.527      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 304                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    7.714     0.000     0.000     0.002     0.000     7.615     0.097     0.279
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.001     1.430     1.431     1.821    21.020     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.931     0.518    21.740     0.000     0.799    23.987
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.517    25.306     0.000    21.259     2.226
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   3.495E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.905               0.651    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          7.345E-09            0.00     7.345E-09           0.138      1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 305                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19445,6 +20151,45 @@
                                           7.241E-07            0.00     7.241E-07           0.871      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 305                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    8.684     0.000     0.000     0.005     0.000     8.610     0.070     0.451
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     2.382     2.382     2.094    27.488     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.030     0.559    26.325     0.000     1.511    29.425
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.557    31.635     0.000    25.652     3.889
+
+   BALANCE                      % ERROR IN   INCHES
+                                 -0.001   4.259E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.931               0.609    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          4.727E-09            0.00     4.727E-09           0.211      1.82    
+1
+
  IMPERVIOUS LAND SEGMENT NO. 301                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** IWATER ***
@@ -19473,6 +20218,36 @@
                                               SOSLD
                                             TONS/AC
                                               0.233
+1
+
+ IMPERVIOUS LAND SEGMENT NO. 301                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** IWATER ***
+
+   STATE VARIABLES              RETN STOR SURF STOR
+                                     RETS      SURS
+                                       IN        IN
+                                     0.00      0.00
+
+   FLUXES                        MOISTURE   OUTFLOW EVAP. POT    ACTUAL
+                                     SUPY      SURO       PET     IMPEV
+                                       IN        IN        IN        IN
+                                    5.735     4.858     46.16      0.88
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.735E+00
+
+ *** SOLIDS ***
+
+   STATE VARIABLES                   SOLIDS STORAGE
+                                               SLDS
+                                            TONS/AC
+                                              0.700
+
+   FLUXES                            SOLIDS WASHOFF
+                                              SOSLD
+                                            TONS/AC
+                                              0.059
 1
 
  REACH/MIXED-RESERVOIR NO.   3                            Coyote Creek                      REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19525,6 +20300,56 @@
                                   0.000   1.928E+04
 1
 
+ REACH/MIXED-RESERVOIR NO.   3                            Coyote Creek                      REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                     5.96 1.206E-02 1.206E-02 1.209E-02      165. 1.209E-02      493.     0.958      2.00
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                3.150E-02 1.922E-03      1.91
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                9.824E+03      237. 1.447E+03 8.617E+03
+
+     POTENTIAL ET (IN)              POTEV
+                                     46.1
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   1.007E+04
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00      0.00      0.00      0.00    
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 0.000E+00 0.000E+00 0.000E+00
+              BED                         5.997E+04 1.376E+04 1.835E+04 9.209E+04
+              TOTAL                       5.997E+04 1.376E+04 1.835E+04 9.209E+04
+
+     BED DEPTH (FT)                            2.02
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        4.715E+01 6.602E+02 2.358E+02 9.431E+02
+     DEPOSITION/SCOUR                     3.780E+00 0.000E+00 0.000E+00 3.780E+00
+     TOTAL OUTFLOWS                       4.337E+01 6.602E+02 2.358E+02 9.393E+02
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.000   6.002E+04
+                                  0.000   1.442E+04
+                                  0.000   1.859E+04
+1
+
  PERVIOUS LAND SEGMENT NO. 401                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19562,6 +20387,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           9.282E-08            0.00     9.282E-08           4.035E-02  1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 401                          Forest                              REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.074     0.000     0.000     0.001     0.000     0.073     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.040     0.040     0.025
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.337     0.031     4.634     0.000     0.007     6.009
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.031     4.367     0.000     4.295     0.047
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.148E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.799E-13            0.00     1.799E-13           1.043E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 402                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19603,6 +20467,45 @@
                                           3.369E-07            0.00     3.369E-07           4.035E-02  1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 402                          Shrub/Wooded                        REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.187     0.000     0.000     0.001     0.000     0.186     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.062     0.062     0.040
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.087     0.059     5.076     0.000     0.011     6.233
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.059     4.589     0.000     4.476     0.073
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   6.521E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.864               0.970    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          2.410E-12            0.00     2.410E-12           1.043E-02  1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 403                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19640,6 +20543,45 @@
                                                WSSD               SCRSD     SOSED                 DET      NVSI
                                             TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
                                           3.634E-07            0.00     3.634E-07           0.495      1.83    
+1
+
+ PERVIOUS LAND SEGMENT NO. 403                          Grassland                           REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    0.419     0.000     0.000     0.001     0.000     0.418     0.000     0.000
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     0.093     0.093     0.060
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.966     0.093     5.402     0.000     0.017     6.479
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.000     0.093     4.676     0.000     4.506     0.111
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   7.051E+00
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.897               0.802    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          1.457E-11            0.00     1.457E-11           9.377E-02  1.82    
 1
 
  PERVIOUS LAND SEGMENT NO. 404                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19681,6 +20623,45 @@
                                           1.032E-06            0.00     1.032E-06           0.527      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 404                          Developed/Landscape                 REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    7.714     0.000     0.000     0.002     0.000     7.615     0.097     0.279
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.001     1.430     1.431     1.821    21.020     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     0.931     0.518    21.740     0.000     0.799    23.987
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.517    25.306     0.000    21.259     2.226
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   3.495E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.905               0.651    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          7.345E-09            0.00     7.345E-09           0.138      1.82    
+1
+
  PERVIOUS LAND SEGMENT NO. 405                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** PWATER ***
@@ -19720,6 +20701,45 @@
                                           7.241E-07            0.00     7.241E-07           0.871      1.83    
 1
 
+ PERVIOUS LAND SEGMENT NO. 405                          Agriculture                         REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** PWATER ***
+
+   STATE VARIABLES                   PERS      CEPS      SURS       UZS      IFWS       LZS      AGWS      GWVS
+                                       IN        IN        IN        IN        IN        IN        IN        IN
+                                    8.684     0.000     0.000     0.005     0.000     8.610     0.070     0.451
+
+   FLUXES
+     EXTNL INFLOWS & OUTFLOWS    MOISTURE<-----OUTFLOWS TO STREAM---------->(SUM) DEEP PERC<----------------LATERAL INFLOWS----------------->
+                                     SUPY      SURO      IFWO      AGWO      PERO      IGWI     SURLI      UZLI     IFWLI      LZLI     AGWLI
+                                       IN        IN        IN        IN        IN        IN        IN        IN        IN        IN        IN
+                                    5.735     0.000     0.000     2.382     2.382     2.094    27.488     0.000     0.000     0.000     0.000
+
+     EVAPOTRANSPIRATION         POTENTIAL<--------------------ET COMPONENTS-------------------->(SUM)
+                                      PET      CEPE      UZET      LZET     AGWET     BASET      TAET
+                                       IN        IN        IN        IN        IN        IN        IN
+                                   46.160     1.030     0.559    26.325     0.000     1.511    29.425
+
+     INTERNAL FLUXES                 IFWI       UZI     INFIL      PERC       LZI      AGWI
+                                       IN        IN        IN        IN        IN        IN
+                                    0.001     0.557    31.635     0.000    25.652     3.889
+
+   BALANCE                      % ERROR IN   INCHES
+                                 -0.001   4.259E+01
+
+ *** SEDMNT ***
+
+   STATE VARIABLES                          STORAGE
+                                               DETS               COVER
+                                            TONS/AC            FRACTION
+                                          0.931               0.609    
+
+   FLUXES                                   WASHOFF               SCOUR     TOTAL            VERTICAL ADDITIONS
+                                               WSSD               SCRSD     SOSED                 DET      NVSI
+                                            TONS/AC             TONS/AC   TONS/AC             TONS/AC   TONS/AC
+                                          4.727E-09            0.00     4.727E-09           0.211      1.82    
+1
+
  IMPERVIOUS LAND SEGMENT NO. 401                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
 
  *** IWATER ***
@@ -19748,6 +20768,36 @@
                                               SOSLD
                                             TONS/AC
                                               0.233
+1
+
+ IMPERVIOUS LAND SEGMENT NO. 401                        Impervious                          REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** IWATER ***
+
+   STATE VARIABLES              RETN STOR SURF STOR
+                                     RETS      SURS
+                                       IN        IN
+                                     0.00      0.00
+
+   FLUXES                        MOISTURE   OUTFLOW EVAP. POT    ACTUAL
+                                     SUPY      SURO       PET     IMPEV
+                                       IN        IN        IN        IN
+                                    5.735     4.858     46.16      0.88
+
+   BALANCE                      % ERROR IN   INCHES
+                                  0.000   5.735E+00
+
+ *** SOLIDS ***
+
+   STATE VARIABLES                   SOLIDS STORAGE
+                                               SLDS
+                                            TONS/AC
+                                              0.700
+
+   FLUXES                            SOLIDS WASHOFF
+                                              SOSLD
+                                            TONS/AC
+                                              0.059
 1
 
  REACH/MIXED-RESERVOIR NO.   4                            Coyote Creek                      REPORT FOR PRINTOUT YEAR ENDING 2016/ 9
@@ -19798,3 +20848,53 @@
                                   0.007   2.202E+04
                                   0.000   8.874E+03
                                   0.000   7.693E+03
+1
+
+ REACH/MIXED-RESERVOIR NO.   4                            Coyote Creek                      REPORT FOR PRINTOUT YEAR ENDING 2017/ 9
+
+ *** HYDR ***
+
+   STATE VARIABLES                    VOL       DEP     STAGE     AVDEP      TWID      HRAD     SAREA     AVVEL    AVSECT
+     ENTIRE REACH:                  AC-FT        FT        FT        FT        FT        FT     ACRES      FT/S       FT2
+                                     7.10 8.552E-02 8.552E-02 8.492E-02      83.2 8.475E-02      83.6     0.515      7.07
+
+                                    USTAR       TAU   OUTFLOW
+                                     FT/S    LB/FT2     FT3/S
+                                6.030E-02 7.047E-03      3.64
+
+   FLUXES                           TOTAL    PRECIP      EVAP     TOTAL
+     ENTIRE REACH:                 INFLOW                LOSS   OUTFLOW
+       VOLUMES  (AC-FT)              IVOL    PRSUPY     VOLEV     ROVOL
+                                1.442E+04      46.7      322. 1.415E+04
+
+     POTENTIAL ET (IN)              POTEV
+                                     46.1
+
+   BALANCE                      % ERROR IN    AC-FT
+                                  0.000   1.447E+04
+
+ *** SEDTRN ***
+
+   STATE VARIABLES
+                                               SAND      SILT      CLAY     TOTAL
+     CONC. IN SUSPENSION (MG/L)            0.00      0.00      0.00      0.00    
+
+     STORAGES (TONS)                           SAND      SILT      CLAY     TOTAL
+              SUSPENSION                  0.000E+00 0.000E+00 0.000E+00 0.000E+00
+              BED                         2.175E+04 4.634E+03 6.178E+03 3.257E+04
+              TOTAL                       2.175E+04 4.634E+03 6.178E+03 3.257E+04
+
+     BED DEPTH (FT)                            2.12
+
+   FLUXES (TONS)                               SAND      SILT      CLAY     TOTAL
+
+     TOTAL INFLOWS                        7.310E+01 1.076E+03 3.844E+02 1.534E+03
+     DEPOSITION/SCOUR                     8.424E+00 0.000E+00 0.000E+00 8.424E+00
+     TOTAL OUTFLOWS                       6.468E+01 1.076E+03 3.844E+02 1.525E+03
+
+                               FOR SAND, SILT, CLAY
+
+   BALANCE                      % ERROR IN     TONS
+                                  0.002   2.182E+04
+                                  0.000   5.710E+03
+                                  0.000   6.563E+03

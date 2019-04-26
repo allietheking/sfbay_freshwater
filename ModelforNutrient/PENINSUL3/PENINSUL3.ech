@@ -67,9 +67,9 @@
 
  GENERAL RUN INFORMATION:    UCI Created for ABAG for PENINSUL
 
-   START       1999/01/01 00:00  END    2016/12/31 24:00
+   START       1999/01/01 00:00  END    2017/12/31 24:00
 
- START AND END DATE/TIMES TRANSLATE TO THE FOLLOWING, IN INTERNAL FORMAT:  1998/12/31 24:60    2016/12/31 24:60
+ START AND END DATE/TIMES TRANSLATE TO THE FOLLOWING, IN INTERNAL FORMAT:  1998/12/31 24:60    2017/12/31 24:60
 
  RUN INTERPRETER OUTPUT LEVEL HAS BEEN SET TO:  4
  RUNTIME SPECIAL ACTION OUTPUT LEVEL HAS BEEN SET TO:  0
@@ -1209,15 +1209,15 @@
      <-Volume-> <Member> SsysSgap<--Mult-->Tran <-Target vols> <-Grp> <-Member-> *** 
      <Name>   x <Name> x tem strg<-factor->strg <Name>   x   x        <Name> x x *** 
      *** Met Seg                                                                     
-     WDM2   118 HPCP     ENGLZERO   0.54375SAME PERLND 201 205 EXTNL  PREC           
+     WDM2   119 HPCP     ENGLZERO   0.54375SAME PERLND 201 205 EXTNL  PREC           
      WDM2   116 HPCP     ENGLZERO   0.54375SAME PERLND 201 205 EXTNL  PREC           
      WDM2   204 PEVT     ENGL              SAME PERLND 201 205 EXTNL  PETINP         
      *** Met Seg                                                                     
-     WDM2   118 HPCP     ENGLZERO   0.54375SAME IMPLND 201     EXTNL  PREC           
+     WDM2   119 HPCP     ENGLZERO   0.54375SAME IMPLND 201     EXTNL  PREC           
      WDM2   116 HPCP     ENGLZERO   0.54375SAME IMPLND 201     EXTNL  PREC           
      WDM2   204 PEVT     ENGL              SAME IMPLND 201     EXTNL  PETINP         
      *** Met Seg                                                                     
-     WDM2   118 HPCP     ENGLZERO   0.54375SAME RCHRES   2     EXTNL  PREC           
+     WDM2   119 HPCP     ENGLZERO   0.54375SAME RCHRES   2     EXTNL  PREC           
      WDM2   116 HPCP     ENGLZERO   0.54375SAME RCHRES   2     EXTNL  PREC           
      WDM2   204 PEVT     ENGL              SAME RCHRES   2     EXTNL  POTEV          
      *** Urban/Agriculture Irrigation                                                
@@ -1268,7 +1268,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
 
@@ -1292,7 +1292,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
 
@@ -1316,7 +1316,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
 
@@ -1340,7 +1340,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
      WDM2    150      1440      DIV      6.500E-01    EXTNL   SURLI    1   1
@@ -1365,7 +1365,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
      WDM2    150      1440      DIV      8.500E-01    EXTNL   SURLI    1   1
@@ -1390,7 +1390,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   PETINP   1   1
 
@@ -1414,7 +1414,7 @@
      FROM EXTERNAL SOURCES
      TYPE      #  INTERVAL   TRN STR         MFACT    GROUP   MEMBER  S1  S2   
 
-     WDM2    118        60      SAME     5.437E-01    EXTNL   PREC     1   1
+     WDM2    119        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    116        60      SAME     5.437E-01    EXTNL   PREC     1   1
      WDM2    204        60      SAME     1.000E+00    EXTNL   POTEV    1   1
      WDM2     21      1440      DIV      1.980E+00    INFLOW  IVOL     1   1
