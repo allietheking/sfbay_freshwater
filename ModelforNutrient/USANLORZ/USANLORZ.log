@@ -1,0 +1,9 @@
+00:00:08.591	Main:StartToFile 2018-08-28 01:57:12
+00:00:08.591	Main:Begin Logging
+00:00:08.591	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\USANLORZ\USANLORZ.log)
+00:00:08.591	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, USANLORZ, 8)
+00:00:08.809	Main:Post: F90_ACTSCN (-1, 0, 100, 0, USANLORZ, 8)
+00:00:08.809	Main:Pre:  F90_SIMSCN (0)
+00:00:08.809	WriteStatus:(Progress Percent Off)
+00:00:11.499	Main:Post: F90_SIMSCN (0)
+00:00:11.499	WriteStatus:(EXIT)

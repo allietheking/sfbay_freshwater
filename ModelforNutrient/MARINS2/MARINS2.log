@@ -1,0 +1,9 @@
+00:00:14.137	Main:StartToFile 2018-08-28 01:01:52
+00:00:14.137	Main:Begin Logging
+00:00:14.137	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\MARINS2\MARINS2.log)
+00:00:14.137	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, MARINS2, 7)
+00:00:14.356	Main:Post: F90_ACTSCN (-1, 0, 100, 0, MARINS2, 7)
+00:00:14.356	Main:Pre:  F90_SIMSCN (0)
+00:00:14.356	WriteStatus:(Progress Percent Off)
+00:00:16.375	Main:Post: F90_SIMSCN (0)
+00:00:16.375	WriteStatus:(EXIT)

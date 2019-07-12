@@ -1,0 +1,9 @@
+00:00:10.413	Main:StartToFile 2018-08-28 01:56:31
+00:00:10.413	Main:Begin Logging
+00:00:10.413	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\UCMADERA\UCMADERA.log)
+00:00:10.413	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, UCMADERA, 8)
+00:00:10.571	Main:Post: F90_ACTSCN (-1, 0, 100, 0, UCMADERA, 8)
+00:00:10.571	Main:Pre:  F90_SIMSCN (0)
+00:00:10.571	WriteStatus:(Progress Percent Off)
+00:00:12.943	Main:Post: F90_SIMSCN (0)
+00:00:12.943	WriteStatus:(EXIT)

@@ -1,0 +1,9 @@
+00:00:08.462	Main:StartToFile 2018-08-28 01:55:10
+00:00:08.462	Main:Begin Logging
+00:00:08.462	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\SCLARAVW4\SCLARAVW4.log)
+00:00:08.462	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, SCLARAVW4, 9)
+00:00:08.712	Main:Post: F90_ACTSCN (-1, 0, 100, 0, SCLARAVW4, 9)
+00:00:08.712	Main:Pre:  F90_SIMSCN (0)
+00:00:08.712	WriteStatus:(Progress Percent Off)
+00:00:10.704	Main:Post: F90_SIMSCN (0)
+00:00:10.704	WriteStatus:(EXIT)

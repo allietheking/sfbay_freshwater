@@ -1,0 +1,9 @@
+00:00:09.466	Main:StartToFile 2018-08-28 12:57:34
+00:00:09.466	Main:Begin Logging
+00:00:09.466	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\CCOSTAC4\CCOSTAC4.log)
+00:00:09.466	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, CCOSTAC4, 8)
+00:00:09.749	Main:Post: F90_ACTSCN (-1, 0, 100, 0, CCOSTAC4, 8)
+00:00:09.749	Main:Pre:  F90_SIMSCN (0)
+00:00:09.749	WriteStatus:(Progress Percent Off)
+00:00:11.826	Main:Post: F90_SIMSCN (0)
+00:00:11.826	WriteStatus:(EXIT)

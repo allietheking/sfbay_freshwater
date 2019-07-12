@@ -8,6 +8,7 @@ from __future__ import print_function
 import os
 
 import xarray as xr
+import numpy as np
 
 from stompy import utils
 from stompy.spatial import wkb2shp, proj_utils

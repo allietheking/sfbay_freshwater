@@ -1,0 +1,9 @@
+00:00:09.199	Main:StartToFile 2018-08-28 12:59:55
+00:00:09.199	Main:Begin Logging
+00:00:09.199	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\EBAYC6\EBAYC6.log)
+00:00:09.199	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, EBAYC6, 6)
+00:00:09.517	Main:Post: F90_ACTSCN (-1, 0, 100, 0, EBAYC6, 6)
+00:00:09.517	Main:Pre:  F90_SIMSCN (0)
+00:00:09.517	WriteStatus:(Progress Percent Off)
+00:00:11.681	Main:Post: F90_SIMSCN (0)
+00:00:11.681	WriteStatus:(EXIT)

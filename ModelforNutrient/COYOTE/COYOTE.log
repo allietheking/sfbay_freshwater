@@ -1,0 +1,9 @@
+00:00:09.328	Main:StartToFile 2018-08-28 12:58:28
+00:00:09.328	Main:Begin Logging
+00:00:09.328	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\COYOTE\COYOTE.log)
+00:00:09.328	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, COYOTE, 6)
+00:00:09.547	Main:Post: F90_ACTSCN (-1, 0, 100, 0, COYOTE, 6)
+00:00:09.547	Main:Pre:  F90_SIMSCN (0)
+00:00:09.547	WriteStatus:(Progress Percent Off)
+00:00:15.047	Main:Post: F90_SIMSCN (0)
+00:00:15.047	WriteStatus:(EXIT)

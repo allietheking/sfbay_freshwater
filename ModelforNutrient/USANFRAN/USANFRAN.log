@@ -1,0 +1,9 @@
+00:00:18.034	Main:StartToFile 2019-03-09 11:56:56
+00:00:18.034	Main:Begin Logging
+00:00:18.034	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\USANFRAN\USANFRAN.log)
+00:00:18.049	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, USANFRAN, 8)
+00:00:18.206	Main:Post: F90_ACTSCN (-1, 0, 100, 0, USANFRAN, 8)
+00:00:18.206	Main:Pre:  F90_SIMSCN (0)
+00:00:18.206	WriteStatus:(Progress Percent Off)
+00:00:21.992	Main:Post: F90_SIMSCN (0)
+00:00:21.992	WriteStatus:(EXIT)

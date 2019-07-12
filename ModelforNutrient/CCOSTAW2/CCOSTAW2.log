@@ -1,0 +1,9 @@
+00:00:07.541	Main:StartToFile 2018-08-28 12:57:59
+00:00:07.541	Main:Begin Logging
+00:00:07.541	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\CCOSTAW2\CCOSTAW2.log)
+00:00:07.541	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, CCOSTAW2, 8)
+00:00:07.744	Main:Post: F90_ACTSCN (-1, 0, 100, 0, CCOSTAW2, 8)
+00:00:07.744	Main:Pre:  F90_SIMSCN (0)
+00:00:07.744	WriteStatus:(Progress Percent Off)
+00:00:09.793	Main:Post: F90_SIMSCN (0)
+00:00:09.793	WriteStatus:(EXIT)

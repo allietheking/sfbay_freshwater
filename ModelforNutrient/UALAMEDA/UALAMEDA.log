@@ -1,0 +1,9 @@
+00:00:10.578	Main:StartToFile 2018-08-28 01:56:07
+00:00:10.578	Main:Begin Logging
+00:00:10.578	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\UALAMEDA\UALAMEDA.log)
+00:00:10.578	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, UALAMEDA, 8)
+00:00:11.026	Main:Post: F90_ACTSCN (-1, 0, 100, 0, UALAMEDA, 8)
+00:00:11.026	Main:Pre:  F90_SIMSCN (0)
+00:00:11.026	WriteStatus:(Progress Percent Off)
+00:00:22.560	Main:Post: F90_SIMSCN (0)
+00:00:22.560	WriteStatus:(EXIT)

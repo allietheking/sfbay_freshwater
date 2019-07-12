@@ -1,0 +1,9 @@
+00:00:09.061	Main:StartToFile 2018-08-28 01:01:05
+00:00:09.061	Main:Begin Logging
+00:00:09.061	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\EBAYS\EBAYS.log)
+00:00:09.062	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, EBAYS, 5)
+00:00:09.311	Main:Post: F90_ACTSCN (-1, 0, 100, 0, EBAYS, 5)
+00:00:09.311	Main:Pre:  F90_SIMSCN (0)
+00:00:09.311	WriteStatus:(Progress Percent Off)
+00:00:11.349	Main:Post: F90_SIMSCN (0)
+00:00:11.349	WriteStatus:(EXIT)

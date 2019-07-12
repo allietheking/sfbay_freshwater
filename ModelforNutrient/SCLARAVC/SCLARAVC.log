@@ -1,0 +1,9 @@
+00:00:09.688	Main:StartToFile 2018-08-28 01:53:18
+00:00:09.688	Main:Begin Logging
+00:00:09.688	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\SCLARAVC\SCLARAVC.log)
+00:00:09.688	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, SCLARAVC, 8)
+00:00:09.846	Main:Post: F90_ACTSCN (-1, 0, 100, 0, SCLARAVC, 8)
+00:00:09.846	Main:Pre:  F90_SIMSCN (0)
+00:00:09.846	WriteStatus:(Progress Percent Off)
+00:00:14.280	Main:Post: F90_SIMSCN (0)
+00:00:14.280	WriteStatus:(EXIT)

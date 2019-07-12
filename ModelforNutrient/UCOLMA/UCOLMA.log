@@ -1,0 +1,9 @@
+00:00:09.050	Main:StartToFile 2018-08-28 01:56:44
+00:00:09.050	Main:Begin Logging
+00:00:09.050	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\UCOLMA\UCOLMA.log)
+00:00:09.050	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, UCOLMA, 6)
+00:00:09.128	Main:Post: F90_ACTSCN (-1, 0, 100, 0, UCOLMA, 6)
+00:00:09.128	Main:Pre:  F90_SIMSCN (0)
+00:00:09.128	WriteStatus:(Progress Percent Off)
+00:00:11.688	Main:Post: F90_SIMSCN (0)
+00:00:11.688	WriteStatus:(EXIT)

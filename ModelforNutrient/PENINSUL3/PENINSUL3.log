@@ -1,0 +1,9 @@
+00:00:08.991	Main:StartToFile 2018-08-28 01:48:34
+00:00:08.991	Main:Begin Logging
+00:00:08.992	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\PENINSUL3\PENINSUL3.log)
+00:00:08.992	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, PENINSUL3, 9)
+00:00:09.215	Main:Post: F90_ACTSCN (-1, 0, 100, 0, PENINSUL3, 9)
+00:00:09.215	Main:Pre:  F90_SIMSCN (0)
+00:00:09.215	WriteStatus:(Progress Percent Off)
+00:00:11.234	Main:Post: F90_SIMSCN (0)
+00:00:11.234	WriteStatus:(EXIT)

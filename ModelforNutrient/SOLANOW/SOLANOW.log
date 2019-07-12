@@ -1,0 +1,9 @@
+00:00:09.075	Main:StartToFile 2018-08-28 01:55:36
+00:00:09.075	Main:Begin Logging
+00:00:09.075	WriteStatus:(LOGTOFILE C:\Projects\Bay Area Hydrology Model\Nutrient Model\SOLANOW\SOLANOW.log)
+00:00:09.075	Main:Pre:  F90_ACTSCN (-1, 0, 100, 0, SOLANOW, 7)
+00:00:09.379	Main:Post: F90_ACTSCN (-1, 0, 100, 0, SOLANOW, 7)
+00:00:09.379	Main:Pre:  F90_SIMSCN (0)
+00:00:09.379	WriteStatus:(Progress Percent Off)
+00:00:13.809	Main:Post: F90_SIMSCN (0)
+00:00:13.809	WriteStatus:(EXIT)
